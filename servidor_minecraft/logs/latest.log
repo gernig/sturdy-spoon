@@ -49,3 +49,9 @@
 [03:39:48] [Server thread/INFO]: Yumalala has made the advancement [Diamonds!]
 [03:43:11] [Server thread/INFO]: Yumalala has made the advancement [Take Aim]
 [03:46:16] [Server thread/INFO]: Yumalala has made the advancement [Ice Bucket Challenge]
+[04:04:20] [Server thread/INFO]: Yumalala lost connection: Disconnected
+[04:04:20] [Server thread/INFO]: Yumalala left the game
+[04:04:23] [Server thread/INFO]: Yumalala[/100.101.92.41:63152] logged in with entity id 23443 at (659.5, 140.0, 231.5)
+[04:04:23] [Server thread/INFO]: Yumalala joined the game
+[04:12:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=922, y=64, z=94} class_2338{x=923, y=62, z=93}
+[04:12:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=922, y=64, z=94} class_2338{x=923, y=62, z=93}
