@@ -1,0 +1,43 @@
+[02:33:04] [main/INFO]: Loading Minecraft 1.21.5 with Fabric Loader 0.16.14
+[02:33:04] [main/INFO]: Loading 4 mods:
+	- fabricloader 0.16.14
+	   \-- mixinextras 0.4.1
+	- java 21
+	- minecraft 1.21.5
+[02:33:04] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/sturdy-spoon/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[02:33:10] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:33:11] [main/INFO]: Loaded 1373 recipes
+[02:33:11] [main/INFO]: Loaded 1484 advancements
+[02:33:12] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[02:33:12] [Server thread/INFO]: Loading properties
+[02:33:12] [Server thread/INFO]: Default game type: SURVIVAL
+[02:33:12] [Server thread/INFO]: Generating keypair
+[02:33:12] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:33:12] [Server thread/INFO]: Using epoll channel type
+[02:33:12] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:33:12] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:33:12] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:33:12] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:33:12] [Server thread/INFO]: Preparing level "world"
+[02:33:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:33:16] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:33:16] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:33:16] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:33:16] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:33:16] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:33:16] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:33:16] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:33:16] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:33:16] [Worker-Main-2/INFO]: Preparing spawn area: 63%
+[02:33:16] [Server thread/INFO]: Time elapsed: 4029 ms
+[02:33:16] [Server thread/INFO]: Done (4.386s)! For help, type "help"
+[02:34:16] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[02:37:39] [Server thread/INFO]: Yumalala[/100.101.92.41:62257] logged in with entity id 35 at (8.01783763852266, 73.0, 32.361783498332834)
+[02:37:39] [Server thread/INFO]: Yumalala joined the game
+[02:39:57] [Server thread/INFO]: Yumalala has made the advancement [Monster Hunter]
+[02:41:27] [Server thread/INFO]: Yumalala has made the advancement [Sweet Dreams]
+[02:41:53] [Server thread/INFO]: Yumalala was shot by Skeleton
+[02:43:53] [Server thread/INFO]: Yumalala was shot by Skeleton
+[02:45:15] [Server thread/INFO]: Yumalala was blown up by Creeper
+[02:46:49] [Server thread/INFO]: Yumalala has made the advancement [Acquire Hardware]
+[02:46:58] [Server thread/INFO]: Yumalala has made the advancement [Isn't It Iron Pick]
