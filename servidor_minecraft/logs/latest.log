@@ -36,3 +36,4 @@
 [00:47:12] [Server thread/INFO]: Yumalala[/100.101.92.41:56446] logged in with entity id 9 at (662.1188433729914, 140.0, 230.92933937609078)
 [00:47:12] [Server thread/INFO]: Yumalala joined the game
 [01:03:23] [Server thread/INFO]: Yumalala burned to death
+[01:27:45] [Server thread/INFO]: Villager class_1646['Fletcher'/3632, l='ServerLevel[world]', x=608.31, y=110.00, z=192.31] died, message: 'Fletcher was slain by Zombie'
