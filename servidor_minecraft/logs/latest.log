@@ -2166,3 +2166,9 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [23:42:03] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-120, y=68, z=-248} but found not block entity block Block{minecraft:snow}[layers=1] at location
 [23:42:03] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location class_2338{x=-120, y=68, z=-248}
 [23:46:14] [Server thread/INFO]: Yumalala has made the advancement [Take Aim]
+[23:50:17] [Server thread/INFO]: Yumalala has made the advancement [Not Today, Thank You]
+[23:54:28] [Server thread/INFO]: Yumalala was slain by Zombie
+[23:54:48] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at 30, 62, 36, minecraft:overworld
+[23:55:44] [Server thread/INFO]: Yumalala was slain by Drowned
+[23:56:22] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at 102, 77, -10, minecraft:overworld
+[23:56:27] [Server thread/INFO]: Yumalala has made the advancement [Best Friends Forever]
