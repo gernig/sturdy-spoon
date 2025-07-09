@@ -1,13 +1,92 @@
 {
-  "minecraft:recipes/decorations/crafting_table": {
+  "toms_storage:unlock_glowstone": {
     "criteria": {
-      "unlock_right_away": "2025-07-09 22:59:20 +0000"
+      "inv_changed-glowstone": "2025-07-09 23:19:06 +0000"
     },
     "done": true
   },
+  "create:root": {
+    "criteria": {
+      "0": "2025-07-09 23:19:06 +0000"
+    },
+    "done": true
+  },
+  "early_game_overhaul:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2025-07-09 23:19:06 +0000"
+    },
+    "done": true
+  },
+  "early_game_overhaul:root": {
+    "criteria": {
+      "tick": "2025-07-09 23:19:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-07-09 23:19:06 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_netherite": {
+    "criteria": {
+      "inv_changed-netherite": "2025-07-09 23:19:06 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_chest": {
+    "criteria": {
+      "inv_changed-chest": "2025-07-09 23:19:06 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2025-07-09 23:19:06 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-09 23:19:07 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-09 23:19:07 +0000"
+    },
+    "done": false
+  },
+  "create_ltab:root": {
+    "criteria": {
+      "Tick": "2025-07-09 23:19:06 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-ender_pearl": "2025-07-09 23:19:06 +0000",
+      "inv_changed-diamond": "2025-07-09 23:19:06 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-09 23:19:07 +0000"
+    },
+    "done": false
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:plains": "2025-07-09 22:59:20 +0000"
+      "minecraft:forest": "2025-07-09 23:22:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-09 23:19:07 +0000"
     },
     "done": false
   },
