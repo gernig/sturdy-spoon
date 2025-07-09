@@ -1,70 +1,338 @@
-[22:19:18] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.3
-[22:19:18] [main/INFO]: Loading 4 mods:
+[22:56:09] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.3
+[22:56:10] [ForkJoinPool-1-worker-4/WARN]: Mod gtceu uses the version 1.0.20.b which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'b'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[22:56:10] [ForkJoinPool-1-worker-1/WARN]: Mod ldlib uses the version 1.0.22.a which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'a'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[22:56:10] [main/INFO]: Loading 58 mods:
+	- fabric-api 0.92.0+1.20.1
+	   |-- fabric-api-base 0.4.31+1802ada577
+	   |-- fabric-api-lookup-api-v1 1.6.36+1802ada577
+	   |-- fabric-biome-api-v1 13.0.13+1802ada577
+	   |-- fabric-block-api-v1 1.0.11+1802ada577
+	   |-- fabric-block-view-api-v2 1.0.1+1802ada577
+	   |-- fabric-blockrenderlayer-v1 1.1.41+1802ada577
+	   |-- fabric-client-tags-api-v1 1.1.2+1802ada577
+	   |-- fabric-command-api-v1 1.2.34+f71b366f77
+	   |-- fabric-command-api-v2 2.2.13+1802ada577
+	   |-- fabric-commands-v0 0.2.51+df3654b377
+	   |-- fabric-containers-v0 0.1.64+df3654b377
+	   |-- fabric-content-registries-v0 4.0.11+1802ada577
+	   |-- fabric-convention-tags-v1 1.5.5+1802ada577
+	   |-- fabric-crash-report-info-v1 0.2.19+1802ada577
+	   |-- fabric-data-attachment-api-v1 1.0.0+de0fd6d177
+	   |-- fabric-data-generation-api-v1 12.3.4+1802ada577
+	   |-- fabric-dimensions-v1 2.1.54+1802ada577
+	   |-- fabric-entity-events-v1 1.6.0+1c78457f77
+	   |-- fabric-events-interaction-v0 0.6.2+1802ada577
+	   |-- fabric-events-lifecycle-v0 0.2.63+df3654b377
+	   |-- fabric-game-rule-api-v1 1.0.40+1802ada577
+	   |-- fabric-item-api-v1 2.1.28+1802ada577
+	   |-- fabric-item-group-api-v1 4.0.12+1802ada577
+	   |-- fabric-key-binding-api-v1 1.0.37+1802ada577
+	   |-- fabric-keybindings-v0 0.2.35+df3654b377
+	   |-- fabric-lifecycle-events-v1 2.2.22+1802ada577
+	   |-- fabric-loot-api-v2 1.2.1+1802ada577
+	   |-- fabric-loot-tables-v1 1.1.45+9e7660c677
+	   |-- fabric-message-api-v1 5.1.9+1802ada577
+	   |-- fabric-mining-level-api-v1 2.1.50+1802ada577
+	   |-- fabric-model-loading-api-v1 1.0.3+1802ada577
+	   |-- fabric-models-v0 0.4.2+9386d8a777
+	   |-- fabric-networking-api-v1 1.3.11+1802ada577
+	   |-- fabric-networking-v0 0.3.51+df3654b377
+	   |-- fabric-object-builder-api-v1 11.1.3+1802ada577
+	   |-- fabric-particles-v1 1.1.2+1802ada577
+	   |-- fabric-recipe-api-v1 1.0.21+1802ada577
+	   |-- fabric-registry-sync-v0 2.3.3+1802ada577
+	   |-- fabric-renderer-api-v1 3.2.1+1802ada577
+	   |-- fabric-renderer-indigo 1.5.1+1802ada577
+	   |-- fabric-renderer-registries-v1 3.2.46+df3654b377
+	   |-- fabric-rendering-data-attachment-v1 0.3.37+92a0d36777
+	   |-- fabric-rendering-fluids-v1 3.0.28+1802ada577
+	   |-- fabric-rendering-v0 1.1.49+df3654b377
+	   |-- fabric-rendering-v1 3.0.8+1802ada577
+	   |-- fabric-resource-conditions-api-v1 2.3.8+1802ada577
+	   |-- fabric-resource-loader-v0 0.11.10+1802ada577
+	   |-- fabric-screen-api-v1 2.0.8+1802ada577
+	   |-- fabric-screen-handler-api-v1 1.3.30+1802ada577
+	   |-- fabric-sound-api-v1 1.0.13+1802ada577
+	   |-- fabric-transfer-api-v1 3.3.4+1802ada577
+	   \-- fabric-transitive-access-wideners-v1 4.3.1+1802ada577
 	- fabricloader 0.16.3
 	   \-- mixinextras 0.4.1
+	- gtceu 1.0.20.b
+	   |-- configuration 2.2.0
+	   |-- ldlib 1.0.22.a
+	   \-- registrate-fabric 1.3.62-MC1.20.1
+	        |-- com_google_code_findbugs_jsr305 3.0.2
+	        |-- porting_lib_data 2.1.1090+1.20
+	        |    |-- porting_lib_core 2.1.1090+1.20
+	        |    |-- porting_lib_gametest 2.1.1090+1.20
+	        |    \-- porting_lib_utility 2.1.1090+1.20
+	        |-- porting_lib_model_generators 2.1.1090+1.20
+	        |    |-- porting_lib_core 2.1.1090+1.20
+	        |    |-- porting_lib_gametest 2.1.1090+1.20
+	        |    |-- porting_lib_model_materials 2.1.1090+1.20
+	        |    \-- porting_lib_utility 2.1.1090+1.20
+	        \-- porting_lib_tags 3.0
+	             |-- porting_lib_core 2.1.1090+1.20
+	             \-- porting_lib_gametest 2.1.1090+1.20
 	- java 17
+	- jei 15.3.0.4
+	- lithium 0.11.2
 	- minecraft 1.20.1
-[22:19:18] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/sturdy-spoon/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[22:19:24] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[22:19:24] [main/WARN]: Missing data pack fabric
-[22:19:25] [main/INFO]: Loaded 7 recipes
-[22:19:25] [main/INFO]: Loaded 1271 advancements
-[22:19:26] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[22:19:26] [Server thread/INFO]: Loading properties
-[22:19:26] [Server thread/INFO]: Default game type: SURVIVAL
-[22:19:26] [Server thread/INFO]: Generating keypair
-[22:19:26] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:19:26] [Server thread/INFO]: Using epoll channel type
-[22:19:26] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:19:26] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[22:19:26] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22:19:26] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:19:26] [Server thread/INFO]: Preparing level "world"
-[22:19:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:19:33] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:19:33] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:19:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:19:34] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:19:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:19:35] [Worker-Main-1/INFO]: Preparing spawn area: 1%
-[22:19:36] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[22:19:36] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[22:19:37] [Worker-Main-3/INFO]: Preparing spawn area: 4%
-[22:19:37] [Worker-Main-3/INFO]: Preparing spawn area: 5%
-[22:19:38] [Worker-Main-1/INFO]: Preparing spawn area: 6%
-[22:19:38] [Worker-Main-2/INFO]: Preparing spawn area: 8%
-[22:19:39] [Worker-Main-3/INFO]: Preparing spawn area: 10%
-[22:19:39] [Worker-Main-2/INFO]: Preparing spawn area: 11%
-[22:19:40] [Worker-Main-1/INFO]: Preparing spawn area: 14%
-[22:19:40] [Worker-Main-1/INFO]: Preparing spawn area: 16%
-[22:19:41] [Worker-Main-2/INFO]: Preparing spawn area: 18%
-[22:19:41] [Worker-Main-1/INFO]: Preparing spawn area: 20%
-[22:19:42] [Worker-Main-3/INFO]: Preparing spawn area: 23%
-[22:19:42] [Worker-Main-1/INFO]: Preparing spawn area: 25%
-[22:19:43] [Worker-Main-1/INFO]: Preparing spawn area: 27%
-[22:19:43] [Worker-Main-2/INFO]: Preparing spawn area: 30%
-[22:19:44] [Worker-Main-1/INFO]: Preparing spawn area: 32%
-[22:19:44] [Worker-Main-1/INFO]: Preparing spawn area: 35%
-[22:19:45] [Worker-Main-2/INFO]: Preparing spawn area: 37%
-[22:19:45] [Worker-Main-1/INFO]: Preparing spawn area: 41%
-[22:19:46] [Worker-Main-1/INFO]: Preparing spawn area: 43%
-[22:19:46] [Worker-Main-3/INFO]: Preparing spawn area: 45%
-[22:19:47] [Worker-Main-2/INFO]: Preparing spawn area: 48%
-[22:19:47] [Worker-Main-2/INFO]: Preparing spawn area: 52%
-[22:19:48] [Worker-Main-2/INFO]: Preparing spawn area: 55%
-[22:19:48] [Worker-Main-1/INFO]: Preparing spawn area: 56%
-[22:19:49] [Worker-Main-2/INFO]: Preparing spawn area: 59%
-[22:19:49] [Worker-Main-1/INFO]: Preparing spawn area: 62%
-[22:19:50] [Worker-Main-2/INFO]: Preparing spawn area: 65%
-[22:19:50] [Worker-Main-2/INFO]: Preparing spawn area: 68%
-[22:19:51] [Worker-Main-1/INFO]: Preparing spawn area: 71%
-[22:19:51] [Worker-Main-3/INFO]: Preparing spawn area: 74%
-[22:19:52] [Worker-Main-3/INFO]: Preparing spawn area: 77%
-[22:19:52] [Worker-Main-1/INFO]: Preparing spawn area: 81%
-[22:19:53] [Worker-Main-3/INFO]: Preparing spawn area: 84%
-[22:19:53] [Worker-Main-2/INFO]: Preparing spawn area: 86%
-[22:19:54] [Worker-Main-3/INFO]: Preparing spawn area: 89%
-[22:19:54] [Worker-Main-3/INFO]: Preparing spawn area: 92%
-[22:19:55] [Worker-Main-1/INFO]: Preparing spawn area: 96%
-[22:19:55] [Server thread/INFO]: Time elapsed: 22414 ms
-[22:19:55] [Server thread/INFO]: Done (29.285s)! For help, type "help"
+[22:56:11] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/sturdy-spoon/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[22:56:11] [main/INFO]: Compatibility level set to JAVA_17
+[22:56:11] [main/INFO]: Loaded configuration file for Lithium: 115 options available, 0 override(s) found
+[22:56:11] [main/WARN]: Error loading class: appeng/helpers/externalstorage/GenericStackInv (java.lang.ClassNotFoundException: appeng/helpers/externalstorage/GenericStackInv)
+[22:56:11] [main/WARN]: @Mixin target appeng.helpers.externalstorage.GenericStackInv was not found gtceu-common.mixins.json:ae2.GenericStackInvAccessor from mod gtceu
+[22:56:11] [main/WARN]: Error loading class: net/minecraft/class_5616 (java.lang.ClassNotFoundException: net/minecraft/class_5616)
+[22:56:11] [main/WARN]: @Mixin target net.minecraft.class_5616 was not found registrate-fabric.mixins.json:accessor.BlockEntityRenderersAccessor from mod registrate-fabric
+[22:56:12] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[22:56:17] [main/INFO]: GregTechCEu is initializing on platform: Fabric
+[22:56:18] [main/INFO]: GTCEu common proxy init!
+[22:56:18] [main/INFO]: Registered gtceu config for auto-sync function
+[22:56:18] [main/INFO]: High-Tier is Disabled.
+[22:56:18] [main/INFO]: Generating Compressed Blocks...
+[22:56:18] [main/INFO]: Generating Compressed Blocks... Complete!
+[22:56:18] [main/INFO]: Generating Frame Blocks...
+[22:56:18] [main/INFO]: Generating Frame Blocks... Complete!
+[22:56:18] [main/INFO]: Generating Raw Ore Blocks...
+[22:56:18] [main/INFO]: Generating Raw Ore Blocks... Complete!
+[22:56:18] [main/INFO]: Generating Ore Blocks...
+[22:56:18] [main/INFO]: Generating Ore Blocks... Complete!
+[22:56:18] [main/INFO]: Generating Surface Rock Indicator Blocks...
+[22:56:18] [main/INFO]: Generating Surface Rock Indicator Blocks... Complete!
+[22:56:18] [main/INFO]: Generating Cable/Wire Blocks...
+[22:56:18] [main/INFO]: Generating Cable/Wire Blocks... Complete!
+[22:56:18] [main/INFO]: Generating Fluid Pipe Blocks...
+[22:56:18] [main/INFO]: Generating Fluid Pipe Blocks... Complete!
+[22:56:18] [main/INFO]: Generating Item Pipe Blocks...
+[22:56:18] [main/INFO]: Generating Item Pipe Blocks... Complete!
+[22:56:18] [main/INFO]: Generating Laser Pipe Blocks...
+[22:56:18] [main/INFO]: Generating Laser Pipe Blocks... Complete!
+[22:56:19] [main/INFO]: LowDragLib is initializing on platform: Fabric
+[22:56:19] [main/INFO]: create ldlib config folder
+[22:56:19] [main/INFO]: Start to search classes for notation: [interface com.lowdragmc.lowdraglib.gui.editor.annotation.LDLRegister, interface com.lowdragmc.lowdraglib.gui.editor.annotation.ConfigAccessor]
+[22:56:22] [main/INFO]: Finish searching for notation
+[22:56:22] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22:56:22] [main/INFO]: Found new data pack fabric, loading it automatically
+[22:56:23] [main/INFO]: GregTech Recipe loading took 1184ms
+[22:56:27] [main/INFO]: Loaded 60 recipes
+[22:56:27] [main/INFO]: Loaded 1271 advancements
+[22:56:28] [main/INFO]: Applied 11 biome modifications to 11 of 64 new biomes in 6.859 ms
+[22:56:28] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[22:56:28] [Server thread/INFO]: Loading properties
+[22:56:28] [Server thread/INFO]: Default game type: SURVIVAL
+[22:56:28] [Server thread/INFO]: Generating keypair
+[22:56:28] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:56:28] [Server thread/INFO]: Using epoll channel type
+[22:56:28] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:56:28] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:56:28] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:56:28] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:56:28] [Server thread/INFO]: Preparing level "world"
+[22:56:34] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:56:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[22:56:35] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:56:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[22:56:36] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:56:36] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:56:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[22:56:37] [Worker-Main-2/INFO]: Preparing spawn area: 1%
+[22:56:38] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[22:56:38] [Worker-Main-1/INFO]: Preparing spawn area: 3%
+[22:56:39] [Worker-Main-1/INFO]: Preparing spawn area: 4%
+[22:56:39] [Worker-Main-1/INFO]: Preparing spawn area: 5%
+[22:56:40] [Worker-Main-1/INFO]: Preparing spawn area: 6%
+[22:56:40] [Worker-Main-3/INFO]: Preparing spawn area: 7%
+[22:56:41] [Worker-Main-1/INFO]: Preparing spawn area: 9%
+[22:56:41] [Worker-Main-2/INFO]: Preparing spawn area: 10%
+[22:56:42] [Worker-Main-3/INFO]: Preparing spawn area: 11%
+[22:56:42] [Worker-Main-2/INFO]: Preparing spawn area: 12%
+[22:56:43] [Worker-Main-3/INFO]: Preparing spawn area: 13%
+[22:56:43] [Worker-Main-2/INFO]: Preparing spawn area: 15%
+[22:56:44] [Worker-Main-2/INFO]: Preparing spawn area: 17%
+[22:56:44] [Worker-Main-1/INFO]: Preparing spawn area: 19%
+[22:56:45] [Worker-Main-3/INFO]: Preparing spawn area: 21%
+[22:56:45] [Worker-Main-2/INFO]: Preparing spawn area: 23%
+[22:56:46] [Worker-Main-2/INFO]: Preparing spawn area: 25%
+[22:56:46] [Worker-Main-1/INFO]: Preparing spawn area: 27%
+[22:56:47] [Worker-Main-1/INFO]: Preparing spawn area: 30%
+[22:56:47] [Worker-Main-1/INFO]: Preparing spawn area: 32%
+[22:56:48] [Worker-Main-2/INFO]: Preparing spawn area: 34%
+[22:56:48] [Worker-Main-3/INFO]: Preparing spawn area: 37%
+[22:56:49] [Worker-Main-2/INFO]: Preparing spawn area: 40%
+[22:56:49] [Worker-Main-3/INFO]: Preparing spawn area: 42%
+[22:56:50] [Worker-Main-3/INFO]: Preparing spawn area: 44%
+[22:56:50] [Worker-Main-1/INFO]: Preparing spawn area: 46%
+[22:56:51] [Worker-Main-1/INFO]: Preparing spawn area: 50%
+[22:56:51] [Worker-Main-2/INFO]: Preparing spawn area: 52%
+[22:56:52] [Worker-Main-1/INFO]: Preparing spawn area: 54%
+[22:56:52] [Worker-Main-1/INFO]: Preparing spawn area: 56%
+[22:56:53] [Worker-Main-2/INFO]: Preparing spawn area: 58%
+[22:56:53] [Worker-Main-3/INFO]: Preparing spawn area: 62%
+[22:56:54] [Worker-Main-2/INFO]: Preparing spawn area: 65%
+[22:56:54] [Worker-Main-3/INFO]: Preparing spawn area: 68%
+[22:56:55] [Worker-Main-1/INFO]: Preparing spawn area: 69%
+[22:56:55] [Worker-Main-1/INFO]: Preparing spawn area: 71%
+[22:56:56] [Worker-Main-1/INFO]: Preparing spawn area: 75%
+[22:56:56] [Worker-Main-2/INFO]: Preparing spawn area: 77%
+[22:56:57] [Worker-Main-3/INFO]: Preparing spawn area: 81%
+[22:56:57] [Worker-Main-3/INFO]: Preparing spawn area: 83%
+[22:56:58] [Worker-Main-3/INFO]: Preparing spawn area: 85%
+[22:56:58] [Worker-Main-1/INFO]: Preparing spawn area: 88%
+[22:56:59] [Worker-Main-2/INFO]: Preparing spawn area: 89%
+[22:56:59] [Worker-Main-1/INFO]: Preparing spawn area: 92%
+[22:57:00] [Worker-Main-1/INFO]: Preparing spawn area: 95%
+[22:57:00] [Worker-Main-1/INFO]: Preparing spawn area: 96%
+[22:57:01] [Worker-Main-3/INFO]: Preparing spawn area: 99%
+[22:57:01] [Server thread/INFO]: Time elapsed: 26562 ms
+[22:57:01] [Server thread/INFO]: Done (32.602s)! For help, type "help"
+[22:59:19] [Server thread/INFO]: Yumalala[/100.73.81.26:63030] logged in with entity id 357 at (-3.5, 63.0, 4.5)
+[22:59:20] [Server thread/INFO]: Yumalala joined the game
+[22:59:21] [Netty Epoll Server IO #2/ERROR]: Error receiving packet 109
+java.lang.IllegalArgumentException: Packet too big (is 9593340, should be less than 8388608): net.minecraft.class_2788@2fa0c1dc
+	at net.minecraft.class_2545.method_10838(class_2545.java:48) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2545.encode(class_2545.java:14) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:709) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:792) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:702) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:113) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:764) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:790) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:758) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:808) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1025) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:306) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.class_2535.method_36942(class_2535.java:220) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2535.method_10761(class_2535.java:212) ~[server-intermediary.jar:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:403) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[22:59:21] [Server thread/INFO]: Yumalala lost connection: Internal Exception: io.netty.handler.codec.EncoderException: java.lang.IllegalArgumentException: Packet too big (is 9593340, should be less than 8388608): net.minecraft.class_2788@2fa0c1dc
+[22:59:21] [Server thread/INFO]: Yumalala left the game
+[23:01:08] [Server thread/INFO]: Yumalala[/100.73.81.26:63062] logged in with entity id 461 at (-3.5, 63.0, 4.5)
+[23:01:08] [Server thread/INFO]: Yumalala joined the game
+[23:01:08] [Netty Epoll Server IO #3/ERROR]: Error receiving packet 109
+java.lang.IllegalArgumentException: Packet too big (is 9593340, should be less than 8388608): net.minecraft.class_2788@62d5193c
+	at net.minecraft.class_2545.method_10838(class_2545.java:48) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2545.encode(class_2545.java:14) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:709) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:792) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:702) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:113) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:764) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:790) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:758) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:808) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1025) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:306) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.class_2535.method_36942(class_2535.java:220) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2535.method_10761(class_2535.java:212) ~[server-intermediary.jar:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:403) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[23:01:08] [Server thread/INFO]: Yumalala lost connection: Internal Exception: io.netty.handler.codec.EncoderException: java.lang.IllegalArgumentException: Packet too big (is 9593340, should be less than 8388608): net.minecraft.class_2788@62d5193c
+[23:01:08] [Server thread/INFO]: Yumalala left the game
+[23:01:11] [Server thread/INFO]: Yumalala[/100.73.81.26:63064] logged in with entity id 476 at (-3.5, 63.0, 4.5)
+[23:01:11] [Server thread/INFO]: Yumalala joined the game
+[23:01:11] [Netty Epoll Server IO #4/ERROR]: Error receiving packet 109
+java.lang.IllegalArgumentException: Packet too big (is 9593340, should be less than 8388608): net.minecraft.class_2788@3e2845b8
+	at net.minecraft.class_2545.method_10838(class_2545.java:48) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2545.encode(class_2545.java:14) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:709) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:792) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:702) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:113) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:764) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:790) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:758) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:808) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1025) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:306) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.class_2535.method_36942(class_2535.java:220) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2535.method_10761(class_2535.java:212) ~[server-intermediary.jar:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:403) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[23:01:11] [Server thread/INFO]: Yumalala lost connection: Internal Exception: io.netty.handler.codec.EncoderException: java.lang.IllegalArgumentException: Packet too big (is 9593340, should be less than 8388608): net.minecraft.class_2788@3e2845b8
+[23:01:11] [Server thread/INFO]: Yumalala left the game
+[23:02:07] [Server thread/INFO]: Yumalala[/100.73.81.26:63066] logged in with entity id 477 at (-3.5, 63.0, 4.5)
+[23:02:07] [Server thread/INFO]: Yumalala joined the game
+[23:02:08] [Netty Epoll Server IO #5/ERROR]: Error receiving packet 109
+java.lang.IllegalArgumentException: Packet too big (is 9593340, should be less than 8388608): net.minecraft.class_2788@10b7590e
+	at net.minecraft.class_2545.method_10838(class_2545.java:48) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2545.encode(class_2545.java:14) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:709) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:792) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:702) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:113) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:764) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:790) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:758) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:808) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1025) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:306) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.class_2535.method_36942(class_2535.java:220) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2535.method_10761(class_2535.java:212) ~[server-intermediary.jar:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:403) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[23:02:08] [Server thread/INFO]: Yumalala lost connection: Internal Exception: io.netty.handler.codec.EncoderException: java.lang.IllegalArgumentException: Packet too big (is 9593340, should be less than 8388608): net.minecraft.class_2788@10b7590e
+[23:02:08] [Server thread/INFO]: Yumalala left the game
+[23:02:12] [Server thread/INFO]: Yumalala[/100.73.81.26:63067] logged in with entity id 488 at (-3.5, 63.0, 4.5)
+[23:02:12] [Server thread/INFO]: Yumalala joined the game
+[23:02:12] [Netty Epoll Server IO #6/ERROR]: Error receiving packet 109
+java.lang.IllegalArgumentException: Packet too big (is 9593340, should be less than 8388608): net.minecraft.class_2788@7238b33b
+	at net.minecraft.class_2545.method_10838(class_2545.java:48) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2545.encode(class_2545.java:14) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:709) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:792) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:702) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:113) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:764) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:790) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:758) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:808) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1025) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:306) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.class_2535.method_36942(class_2535.java:220) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2535.method_10761(class_2535.java:212) ~[server-intermediary.jar:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:403) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[23:02:12] [Server thread/INFO]: Yumalala lost connection: Internal Exception: io.netty.handler.codec.EncoderException: java.lang.IllegalArgumentException: Packet too big (is 9593340, should be less than 8388608): net.minecraft.class_2788@7238b33b
+[23:02:12] [Server thread/INFO]: Yumalala left the game
