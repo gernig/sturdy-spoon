@@ -986,6 +986,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-07-10 00:39:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
     "criteria": {
       "has_wool": "2025-07-10 00:09:07 +0000"
@@ -1214,6 +1220,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/books": {
+    "criteria": {
+      "has_item": "2025-07-10 00:39:32 +0000"
+    },
+    "done": true
+  },
   "alcocraftplus:all_beer": {
     "criteria": {
       "sun_pale_ale": "2025-07-09 23:49:48 +0000"
@@ -1271,6 +1283,12 @@
   "create:recipes/building_blocks/crafting/kinetics/magenta_seat": {
     "criteria": {
       "has_wool": "2025-07-10 00:09:07 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/blueprint": {
+    "criteria": {
+      "has_item": "2025-07-10 00:39:32 +0000"
     },
     "done": true
   },
@@ -1364,9 +1382,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-07-10 00:39:32 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/red_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-07-10 00:08:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2025-07-10 00:39:32 +0000"
     },
     "done": true
   },
@@ -1718,6 +1748,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2025-07-10 00:39:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-07-09 23:47:45 +0000"
@@ -1805,6 +1841,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-07-09 23:39:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-07-10 00:39:32 +0000"
     },
     "done": true
   },
@@ -2321,6 +2363,12 @@
   "early_game_overhaul:recipes/brick_from_campfire_cooking": {
     "criteria": {
       "has_clay_ball": "2025-07-09 23:39:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-07-10 00:39:32 +0000"
     },
     "done": true
   },
