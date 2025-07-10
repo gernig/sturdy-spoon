@@ -32,3 +32,43 @@
 [00:56:47] [Server thread/INFO]: Your backpack has been placed at X: 763 Y: 54 Z: 1542
 [00:57:20] [Server thread/INFO]: [Yumalala: Teleported Yumalala to 763.500000, 54.000000, 1542.500000]
 [00:57:23] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at 764, 53, 1539, minecraft:overworld
+[00:57:40] [Server thread/WARN]: Tried to over-fill a container
+[00:57:40] [Server thread/WARN]: Tried to over-fill a container
+[00:59:48] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-7639, y=-56, z=10}
+[00:59:48] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-7640, y=-56, z=10}
+[00:59:48] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-7643, y=-56, z=10}
+[00:59:48] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-7639, y=-56, z=10}
+[00:59:48] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-7640, y=-56, z=10}
+[00:59:48] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-7642, y=-56, z=10}
+[00:59:48] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-7643, y=-50, z=9}
+[00:59:48] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-7643, y=-56, z=10}
+[00:59:48] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-7642, y=-56, z=10}
+[00:59:48] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-7643, y=-50, z=9}
+[00:59:54] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=-7638, y=-56, z=2}
+[00:59:54] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=-7641, y=-50, z=6}
+[00:59:54] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=-7643, y=-49, z=7}
+[00:59:54] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=-7641, y=-49, z=7}
+[00:59:55] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-7643, y=-56, z=10}
+[00:59:55] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-7638, y=-56, z=2}
+[00:59:55] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-7639, y=-56, z=10}
+[00:59:55] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-7640, y=-56, z=10}
+[00:59:55] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-7642, y=-56, z=10}
+[00:59:55] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-7641, y=-50, z=6}
+[00:59:55] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-7643, y=-49, z=7}
+[00:59:55] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-7643, y=-50, z=9}
+[00:59:55] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-7641, y=-49, z=7}
+[01:00:01] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-7681, y=-56, z=-381}
+[01:00:04] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-7645, y=-57, z=-178}
+[01:00:09] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=-7741, y=-53, z=10}
+[01:00:09] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=-7739, y=-53, z=10}
+[01:00:49] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=-7641, y=-56, z=-41}
+[01:00:49] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=-7640, y=-56, z=-41}
+[01:00:49] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=-7639, y=-56, z=-41}
+[01:06:42] [Server thread/INFO]: Yumalala has made the advancement [Minecraft Comes Alive]
+[01:12:15] [Server thread/INFO]: Yumalala has made the advancement [What a Deal!]
+[01:18:01] [Server thread/INFO]: Villager VillagerEntityMCA['Viktorija'/35547, l='ServerLevel[world]', x=1125.44, y=101.00, z=1634.62] died, message: 'Viktorija was shot by Skeleton'
+[01:28:22] [Server thread/INFO]: Villager VillagerEntityMCA['Valentin'/35394, l='ServerLevel[world]', x=1116.57, y=120.92, z=1699.57] died, message: 'Valentin was slain by Zombie'
+[01:34:59] [Server thread/INFO]: Yumalala has made the advancement [Friendship Found]
+[01:37:45] [Server thread/INFO]: Villager VillagerEntityMCA['Stefan'/35972, l='ServerLevel[world]', x=1142.48, y=52.00, z=1623.98] died, message: 'Stefan was slain by Zombie'
+[01:37:49] [Server thread/INFO]: Yumalala lost connection: Disconnected
+[01:37:49] [Server thread/INFO]: Yumalala left the game
