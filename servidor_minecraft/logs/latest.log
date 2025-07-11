@@ -497,3 +497,6 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [22:33:53] [Server thread/INFO]: [Yumalala: Set own game mode to Creative Mode]
 [22:34:12] [Server thread/INFO]: Villager class_1646['Unemployed'/934, l='ServerLevel[world]', x=1124.30, y=117.00, z=1747.30] died, message: 'Unemployed was slain by Yumalala'
 [22:34:32] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=203, y=48, z=159}
+[22:52:43] [Server thread/INFO]: [Yumalala: Set own game mode to Survival Mode]
+[23:05:02] [Server thread/INFO]: Villager VillagerEntityMCA['Youlia'/4838, l='ServerLevel[world]', x=1093.27, y=87.00, z=1618.32] died, message: 'Youlia was shot by Skeleton'
+[23:05:02] [Server thread/INFO]: Named entity VillagerEntityMCA['Youlia'/4838, l='ServerLevel[world]', x=1093.27, y=87.00, z=1618.32] died: Youlia was shot by Skeleton
