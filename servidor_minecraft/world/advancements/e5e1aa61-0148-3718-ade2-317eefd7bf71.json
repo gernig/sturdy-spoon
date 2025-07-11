@@ -525,6 +525,7 @@
       "minecraft:creeper": "2025-07-10 00:43:22 +0000",
       "minecraft:wither_skeleton": "2025-07-10 00:51:20 +0000",
       "minecraft:husk": "2025-07-09 23:47:34 +0000",
+      "minecraft:piglin": "2025-07-11 23:16:08 +0000",
       "minecraft:stray": "2025-07-09 23:50:21 +0000",
       "minecraft:zombie": "2025-07-09 23:36:42 +0000",
       "minecraft:drowned": "2025-07-09 23:56:50 +0000"
@@ -2788,12 +2789,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-07-11 23:07:17 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2025-07-11 22:53:52 +0000"
@@ -2818,6 +2813,18 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-07-11 23:14:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-07-11 23:14:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
     "criteria": {
       "has_iron_ore": "2025-07-11 23:03:26 +0000"
@@ -2833,6 +2840,12 @@
   "mca:recipes/decorations/orange_dark_oak_crib": {
     "criteria": {
       "has_dark_oak_planks": "2025-07-11 22:53:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-07-11 23:14:04 +0000"
     },
     "done": true
   },
@@ -2866,6 +2879,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-11 23:16:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-11 23:16:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-07-11 22:53:21 +0000"
@@ -2887,6 +2912,12 @@
   "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
     "criteria": {
       "has_coal_ore": "2025-07-11 23:04:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-11 23:16:32 +0000"
     },
     "done": true
   },
@@ -2944,6 +2975,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-11 23:16:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-07-11 22:53:52 +0000"
@@ -2998,6 +3035,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-11 23:16:32 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/blue_dark_oak_crib": {
     "criteria": {
       "has_dark_oak_planks": "2025-07-11 22:53:21 +0000"
@@ -3022,6 +3065,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-07-11 23:14:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-07-11 22:53:52 +0000"
@@ -3040,9 +3089,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-11 23:16:32 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/pink_dark_oak_crib": {
     "criteria": {
       "has_dark_oak_planks": "2025-07-11 22:53:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-07-11 23:15:09 +0000"
     },
     "done": true
   },
@@ -3052,9 +3113,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-11 23:16:32 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/black_dark_oak_crib": {
     "criteria": {
       "has_dark_oak_planks": "2025-07-11 22:53:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-11 23:16:32 +0000"
     },
     "done": true
   },
@@ -3067,6 +3140,12 @@
   "mca:recipes/decorations/white_dark_oak_crib": {
     "criteria": {
       "has_dark_oak_planks": "2025-07-11 22:53:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-11 23:16:32 +0000"
     },
     "done": true
   },
@@ -3100,6 +3179,18 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-07-11 23:16:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-07-11 23:15:06 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/red_dark_oak_crib": {
     "criteria": {
       "has_dark_oak_planks": "2025-07-11 22:53:21 +0000"
@@ -3109,6 +3200,12 @@
   "mca:recipes/decorations/yellow_dark_oak_crib": {
     "criteria": {
       "has_dark_oak_planks": "2025-07-11 22:53:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-07-11 23:15:09 +0000"
     },
     "done": true
   },
