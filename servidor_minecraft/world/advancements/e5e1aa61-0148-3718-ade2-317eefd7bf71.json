@@ -2793,9 +2793,15 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2025-07-11 23:37:45 +0000"
+      "requirement": "2025-07-11 23:47:45 +0000"
     },
     "done": false
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-07-11 23:42:00 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
@@ -2806,6 +2812,12 @@
   "minecraft:recipes/decorations/red_nether_brick_wall": {
     "criteria": {
       "has_red_nether_bricks": "2025-07-11 23:18:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-07-11 23:43:54 +0000"
     },
     "done": true
   },
@@ -2924,6 +2936,12 @@
     },
     "done": true
   },
+  "incendium:withered_forest/root": {
+    "criteria": {
+      "requirement": "2025-07-11 23:38:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2025-07-11 23:18:47 +0000"
@@ -3023,6 +3041,12 @@
   "travelersbackpack:recipes/misc/wither": {
     "criteria": {
       "has_wither_skeleton_skull": "2025-07-11 23:22:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-07-11 23:43:54 +0000"
     },
     "done": true
   },
@@ -3143,6 +3167,12 @@
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2025-07-11 22:53:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2025-07-11 23:40:32 +0000"
     },
     "done": true
   },
@@ -3272,9 +3302,27 @@
     },
     "done": true
   },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:withered_forest": "2025-07-11 23:38:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2025-07-11 22:34:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-07-11 23:40:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-07-11 23:42:00 +0000"
     },
     "done": true
   },
@@ -3329,6 +3377,12 @@
   "minecraft:recipes/misc/quartz": {
     "criteria": {
       "has_nether_quartz_ore": "2025-07-11 23:15:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-07-11 23:43:54 +0000"
     },
     "done": true
   },
@@ -3403,6 +3457,12 @@
       "has_oxeye_daisy": "2025-07-11 22:36:39 +0000"
     },
     "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:withered_forest": "2025-07-11 23:38:37 +0000"
+    },
+    "done": false
   },
   "mca:recipes/decorations/white_dark_oak_crib": {
     "criteria": {

@@ -510,3 +510,6 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [23:38:37] [Server thread/INFO]: Yumalala has made the advancement [Ancient Battlefield]
 [23:40:32] [Server thread/INFO]: Yumalala has made the advancement [Oh Shiny]
 [23:42:00] [Server thread/INFO]: Yumalala has made the advancement [Who is Cutting Onions?]
+[23:43:06] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/15944, l='ServerLevel[world]', x=250.77, y=33.18, z=124.61] died: Restless Spirit starved to death
+[23:49:38] [Server thread/INFO]: [Yumalala: Set own game mode to Spectator Mode]
+[23:49:45] [Server thread/INFO]: [Yumalala: Set own game mode to Survival Mode]
