@@ -93,6 +93,7 @@
       "minecraft:snowy_plains": "2025-07-09 23:41:53 +0000",
       "minecraft:snowy_taiga": "2025-07-09 23:35:37 +0000",
       "minecraft:forest": "2025-07-09 23:22:51 +0000",
+      "minecraft:savanna": "2025-07-12 00:35:55 +0000",
       "minecraft:plains": "2025-07-10 00:29:13 +0000"
     },
     "done": false
@@ -832,6 +833,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2025-07-09 23:32:38 +0000",
+      "cooked_cod": "2025-07-12 00:42:25 +0000",
       "bread": "2025-07-09 23:29:11 +0000",
       "golden_carrot": "2025-07-12 00:08:30 +0000"
     },
@@ -3174,6 +3176,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2025-07-12 00:36:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-11 23:20:01 +0000"
@@ -3620,6 +3628,7 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
+      "incendium:weeping_valley": "2025-07-12 00:34:24 +0000",
       "incendium:inverted_forest": "2025-07-12 00:03:24 +0000",
       "incendium:withered_forest": "2025-07-11 23:38:37 +0000"
     },

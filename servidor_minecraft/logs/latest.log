@@ -9,3 +9,34 @@
 [00:30:15] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/24884, l='ServerLevel[world]', x=-355.12, y=36.47, z=-155.35] died: Restless Spirit starved to death
 [00:31:27] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/25102, l='ServerLevel[world]', x=-409.17, y=148.75, z=-151.48] died: Restless Spirit starved to death
 [00:32:33] [Server thread/INFO]: Yumalala has made the advancement [Not Quite "Nine" Lives]
+[00:34:35] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/25491, l='ServerLevel[world]', x=-470.80, y=74.04, z=-205.69] died: Restless Spirit starved to death
+[00:35:18] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/25715, l='ServerLevel[world]', x=-345.52, y=40.68, z=-199.48] died: Restless Spirit starved to death
+[00:35:18] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/25723, l='ServerLevel[world]', x=-358.43, y=41.22, z=-174.39] died: Restless Spirit starved to death
+[00:35:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7016ms or 140 ticks behind
+[00:36:54] [Server thread/INFO]: Named entity class_1642['Sand Crab'/25894, l='ServerLevel[world]', x=-2748.72, y=68.15, z=-859.85] died: Sand Crab was killed whilst fighting Yumalala
+[00:37:24] [Worker-Main-94/ERROR]: Hanging entity at invalid position: class_2338{x=-7738, y=-41, z=147}
+[00:37:25] [Worker-Main-100/ERROR]: Hanging entity at invalid position: class_2338{x=-7741, y=-53, z=10}
+[00:37:25] [Worker-Main-100/ERROR]: Hanging entity at invalid position: class_2338{x=-7739, y=-53, z=10}
+[00:37:30] [Worker-Main-68/ERROR]: Hanging entity at invalid position: class_2338{x=-7741, y=-53, z=10}
+[00:37:30] [Worker-Main-68/ERROR]: Hanging entity at invalid position: class_2338{x=-7739, y=-53, z=10}
+[00:37:37] [Worker-Main-99/ERROR]: Hanging entity at invalid position: class_2338{x=-2656, y=-58, z=-902}
+[00:37:37] [Worker-Main-99/ERROR]: Hanging entity at invalid position: class_2338{x=-2656, y=-58, z=-903}
+[00:37:45] [Worker-Main-68/ERROR]: Hanging entity at invalid position: class_2338{x=-2654, y=-58, z=-919}
+[00:37:45] [Worker-Main-68/ERROR]: Hanging entity at invalid position: class_2338{x=-2654, y=-58, z=-920}
+[00:37:45] [Worker-Main-68/ERROR]: Hanging entity at invalid position: class_2338{x=-2654, y=-59, z=-919}
+[00:37:45] [Worker-Main-68/ERROR]: Hanging entity at invalid position: class_2338{x=-2654, y=-59, z=-920}
+[00:37:45] [Worker-Main-68/ERROR]: Hanging entity at invalid position: class_2338{x=-2656, y=-58, z=-905}
+[00:38:00] [Worker-Main-94/ERROR]: Hanging entity at invalid position: class_2338{x=-7681, y=-56, z=-381}
+[00:38:01] [Worker-Main-68/ERROR]: Hanging entity at invalid position: class_2338{x=-7681, y=-56, z=-381}
+[00:38:02] [Worker-Main-68/ERROR]: Hanging entity at invalid position: class_2338{x=-7638, y=-56, z=2}
+[00:38:02] [Worker-Main-68/ERROR]: Hanging entity at invalid position: class_2338{x=-7643, y=-56, z=10}
+[00:38:02] [Worker-Main-68/ERROR]: Hanging entity at invalid position: class_2338{x=-7639, y=-56, z=10}
+[00:38:02] [Worker-Main-68/ERROR]: Hanging entity at invalid position: class_2338{x=-7640, y=-56, z=10}
+[00:38:02] [Worker-Main-68/ERROR]: Hanging entity at invalid position: class_2338{x=-7642, y=-56, z=10}
+[00:38:02] [Worker-Main-68/ERROR]: Hanging entity at invalid position: class_2338{x=-7641, y=-50, z=6}
+[00:38:02] [Worker-Main-68/ERROR]: Hanging entity at invalid position: class_2338{x=-7643, y=-49, z=7}
+[00:38:02] [Worker-Main-68/ERROR]: Hanging entity at invalid position: class_2338{x=-7643, y=-50, z=9}
+[00:38:02] [Worker-Main-68/ERROR]: Hanging entity at invalid position: class_2338{x=-7641, y=-49, z=7}
+[00:38:03] [Worker-Main-94/ERROR]: Hanging entity at invalid position: class_2338{x=-7641, y=-56, z=-41}
+[00:38:03] [Worker-Main-94/ERROR]: Hanging entity at invalid position: class_2338{x=-7640, y=-56, z=-41}
+[00:38:03] [Worker-Main-94/ERROR]: Hanging entity at invalid position: class_2338{x=-7639, y=-56, z=-41}
