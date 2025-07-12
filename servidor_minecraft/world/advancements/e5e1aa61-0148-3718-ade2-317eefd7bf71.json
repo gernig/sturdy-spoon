@@ -832,7 +832,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2025-07-09 23:32:38 +0000",
-      "bread": "2025-07-09 23:29:11 +0000"
+      "bread": "2025-07-09 23:29:11 +0000",
+      "golden_carrot": "2025-07-12 00:08:30 +0000"
     },
     "done": false
   },
@@ -2793,6 +2794,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-07-12 00:22:45 +0000"
+    },
+    "done": false
+  },
   "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
       "crying_obsidian": "2025-07-11 23:42:00 +0000"
@@ -2875,6 +2882,12 @@
   "incendium:root": {
     "criteria": {
       "requirement": "2025-07-11 23:14:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-07-12 00:13:34 +0000"
     },
     "done": true
   },
@@ -3094,6 +3107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-07-12 00:21:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2025-07-11 23:29:39 +0000"
@@ -3145,6 +3164,12 @@
   "mca:recipes/decorations/light_gray_dark_oak_crib": {
     "criteria": {
       "has_dark_oak_planks": "2025-07-11 22:53:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-07-12 00:21:51 +0000"
     },
     "done": true
   },
@@ -3253,6 +3278,12 @@
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-07-11 23:20:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-07-12 00:15:28 +0000"
     },
     "done": true
   },
@@ -3436,6 +3467,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-07-12 00:08:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-11 23:20:01 +0000"
@@ -3481,6 +3518,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-11 23:20:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-07-12 00:15:28 +0000"
     },
     "done": true
   },
@@ -3611,6 +3654,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-07-12 00:08:12 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/pig": {
     "criteria": {
       "has_porkchop": "2025-07-11 23:50:09 +0000"
@@ -3650,6 +3699,12 @@
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2025-07-11 23:22:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-07-12 00:15:28 +0000"
     },
     "done": true
   },
