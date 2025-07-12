@@ -523,11 +523,13 @@
       "minecraft:blaze": "2025-07-11 23:33:42 +0000",
       "minecraft:skeleton": "2025-07-09 23:27:37 +0000",
       "minecraft:spider": "2025-07-09 23:27:43 +0000",
+      "minecraft:piglin_brute": "2025-07-12 00:07:12 +0000",
       "minecraft:creeper": "2025-07-10 00:43:22 +0000",
       "minecraft:wither_skeleton": "2025-07-10 00:51:20 +0000",
       "minecraft:husk": "2025-07-09 23:47:34 +0000",
       "minecraft:piglin": "2025-07-11 23:16:08 +0000",
       "minecraft:stray": "2025-07-09 23:50:21 +0000",
+      "minecraft:enderman": "2025-07-12 00:04:48 +0000",
       "minecraft:zombie": "2025-07-09 23:36:42 +0000",
       "minecraft:drowned": "2025-07-09 23:56:50 +0000"
     },
@@ -2791,12 +2793,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-07-11 23:57:45 +0000"
-    },
-    "done": false
-  },
   "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
       "crying_obsidian": "2025-07-11 23:42:00 +0000"
@@ -2809,9 +2805,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-12 00:05:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_nether_brick_wall": {
     "criteria": {
       "has_red_nether_bricks": "2025-07-11 23:18:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-07-11 23:58:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2025-07-11 23:58:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-12 00:05:38 +0000"
     },
     "done": true
   },
@@ -2954,6 +2974,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-12 00:05:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_slab": {
     "criteria": {
       "has_nether_bricks": "2025-07-11 23:16:32 +0000"
@@ -3044,6 +3070,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-07-12 00:07:33 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/wither": {
     "criteria": {
       "has_wither_skeleton_skull": "2025-07-11 23:22:22 +0000"
@@ -3092,6 +3124,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-12 00:05:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
     "criteria": {
       "has_red_nether_bricks": "2025-07-11 23:18:47 +0000"
@@ -3119,6 +3157,12 @@
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-11 22:53:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-07-11 23:58:55 +0000"
     },
     "done": true
   },
@@ -3362,6 +3406,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2025-07-12 00:05:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-07-11 23:16:32 +0000"
@@ -3380,6 +3430,12 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-07-12 00:07:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-11 23:20:01 +0000"
@@ -3389,6 +3445,12 @@
   "minecraft:recipes/misc/quartz": {
     "criteria": {
       "has_nether_quartz_ore": "2025-07-11 23:15:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-12 00:05:38 +0000"
     },
     "done": true
   },
@@ -3407,6 +3469,12 @@
   "minecraft:recipes/redstone/redstone_lamp": {
     "criteria": {
       "has_glowstone": "2025-07-11 23:28:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-12 00:05:38 +0000"
     },
     "done": true
   },
@@ -3446,6 +3514,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-12 00:05:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2025-07-11 23:29:37 +0000"
@@ -3470,6 +3544,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-07-12 00:05:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2025-07-11 22:36:39 +0000"
@@ -3478,6 +3558,7 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
+      "incendium:inverted_forest": "2025-07-12 00:03:24 +0000",
       "incendium:withered_forest": "2025-07-11 23:38:37 +0000"
     },
     "done": false
@@ -3569,6 +3650,12 @@
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2025-07-11 23:22:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2025-07-11 23:58:55 +0000"
     },
     "done": true
   },
