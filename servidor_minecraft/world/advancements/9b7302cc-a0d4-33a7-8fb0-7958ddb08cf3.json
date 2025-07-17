@@ -23,9 +23,27 @@
     },
     "done": true
   },
+  "new_soviet:recipes/building_blocks/small_granite_tiles_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2025-07-17 03:26:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-07-17 03:12:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-07-17 02:47:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-17 03:29:20 +0000"
     },
     "done": true
   },
@@ -59,6 +77,12 @@
     },
     "done": true
   },
+  "xkdeco:recipes/building_blocks/glass_tiles_from_glass_stonecutting": {
+    "criteria": {
+      "has_glass": "2025-07-17 03:29:20 +0000"
+    },
+    "done": true
+  },
   "new_soviet:recipes/building_blocks/beige_linoleum": {
     "criteria": {
       "has_oak_planks": "2025-07-17 03:02:31 +0000"
@@ -83,9 +107,27 @@
     },
     "done": true
   },
+  "new_soviet:recipes/building_blocks/nii_wall_3_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-17 03:25:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-17 03:29:20 +0000"
+    },
+    "done": true
+  },
   "create:root": {
     "criteria": {
       "0": "2025-07-17 02:42:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-17 03:25:59 +0000"
     },
     "done": true
   },
@@ -95,9 +137,21 @@
     },
     "done": true
   },
+  "somemoreblocks:recipes/building_blocks/granite_tile_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-17 03:26:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-17 02:54:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
+    "criteria": {
+      "has_wool": "2025-07-17 03:17:48 +0000"
     },
     "done": true
   },
@@ -107,9 +161,45 @@
     },
     "done": true
   },
+  "somemoreblocks:recipes/building_blocks/granite_tile_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-17 03:26:01 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/granite_tiles_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-17 03:26:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/magenta_seat": {
+    "criteria": {
+      "has_wool": "2025-07-17 03:17:48 +0000"
+    },
+    "done": true
+  },
   "xkdeco:recipes/building_blocks/varnished_planks_from_smoking": {
     "criteria": {
       "has_item": "2025-07-17 03:02:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-17 03:29:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-17 03:29:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-17 03:29:20 +0000"
     },
     "done": true
   },
@@ -149,9 +239,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-07-17 03:29:05 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/granite_brick_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-17 03:26:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-07-17 03:26:00 +0000"
+    },
+    "done": true
+  },
   "new_soviet:recipes/building_blocks/orange_wallpaper": {
     "criteria": {
       "has_oak_planks": "2025-07-17 03:02:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-07-17 03:23:20 +0000"
     },
     "done": true
   },
@@ -164,6 +278,26 @@
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-07-17 02:54:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:spider": "2025-07-17 03:24:42 +0000",
+      "minecraft:cave_spider": "2025-07-17 03:16:21 +0000",
+      "minecraft:zombie_villager": "2025-07-17 03:24:48 +0000"
+    },
+    "done": false
+  },
+  "somemoreblocks:recipes/building_blocks/stone_tiles": {
+    "criteria": {
+      "has_needed_items": "2025-07-17 03:25:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
+    "criteria": {
+      "has_wool": "2025-07-17 03:17:48 +0000"
     },
     "done": true
   },
@@ -197,15 +331,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-07-17 03:26:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-07-17 03:29:05 +0000"
+    },
+    "done": true
+  },
   "new_soviet:recipes/building_blocks/brown_wallpaper": {
     "criteria": {
       "has_oak_planks": "2025-07-17 03:02:31 +0000"
     },
     "done": true
   },
+  "somemoreblocks:recipes/building_blocks/stone_tile_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-17 03:25:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_cut_copper_slab": "2025-07-17 03:26:22 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/stone_tile_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-17 03:25:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-07-17 02:46:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2025-07-17 03:26:01 +0000"
     },
     "done": true
   },
@@ -245,6 +415,18 @@
     },
     "done": true
   },
+  "new_soviet:recipes/building_blocks/chiseled_spruce_door_from_spruce_door_stonecutting": {
+    "criteria": {
+      "has_spruce_door": "2025-07-17 03:25:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2025-07-17 03:26:01 +0000"
+    },
+    "done": true
+  },
   "new_soviet:recipes/building_blocks/light_blue_wallpaper": {
     "criteria": {
       "has_oak_planks": "2025-07-17 03:02:31 +0000"
@@ -275,6 +457,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-17 03:29:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/horizontal_framed_glass_from_colorless_glass_stonecutting": {
+    "criteria": {
+      "has_colorless_glass": "2025-07-17 03:29:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-17 02:54:29 +0000"
@@ -293,6 +487,18 @@
     },
     "done": true
   },
+  "somemoreblocks:recipes/building_blocks/stone_pillar": {
+    "criteria": {
+      "has_needed_items": "2025-07-17 03:25:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2025-07-17 03:17:48 +0000"
+    },
+    "done": true
+  },
   "new_soviet:recipes/building_blocks/blue_linoleum": {
     "criteria": {
       "has_oak_planks": "2025-07-17 03:02:31 +0000"
@@ -305,9 +511,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2025-07-17 03:26:01 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/granite_bricks": {
+    "criteria": {
+      "has_needed_items": "2025-07-17 03:26:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-07-17 02:47:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-17 03:29:20 +0000"
     },
     "done": true
   },
@@ -329,6 +553,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/sheep": {
+    "criteria": {
+      "has_white_wool": "2025-07-17 03:17:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-07-17 02:47:13 +0000"
@@ -347,9 +577,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-17 03:25:59 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-07-17 03:31:20 +0000"
+    },
+    "done": false
+  },
   "new_soviet:recipes/building_blocks/yellow_red_linoleum": {
     "criteria": {
       "has_oak_planks": "2025-07-17 03:02:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-17 03:25:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-17 03:29:20 +0000"
     },
     "done": true
   },
@@ -413,6 +667,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/green_seat": {
+    "criteria": {
+      "has_wool": "2025-07-17 03:17:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-07-17 02:46:52 +0000"
@@ -425,9 +685,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/purple_seat": {
+    "criteria": {
+      "has_wool": "2025-07-17 03:17:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-07-17 03:17:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-07-17 02:47:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-07-17 03:26:00 +0000"
     },
     "done": true
   },
@@ -455,6 +733,12 @@
     },
     "done": true
   },
+  "somemoreblocks:recipes/building_blocks/oxidized_cracked_cut_copper": {
+    "criteria": {
+      "has_needed_items": "2025-07-17 03:26:25 +0000"
+    },
+    "done": true
+  },
   "xkdeco:recipes/building_blocks/dirt_slab_from_dirt_stonecutting": {
     "criteria": {
       "has_dirt": "2025-07-17 02:46:00 +0000"
@@ -467,9 +751,27 @@
     },
     "done": true
   },
+  "xkdeco:recipes/decorations/item_frame_cover_from_glass_stonecutting": {
+    "criteria": {
+      "has_glass": "2025-07-17 03:29:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-07-17 02:45:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-07-17 03:26:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2025-07-17 03:17:48 +0000"
     },
     "done": true
   },
@@ -551,6 +853,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-17 03:25:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_helmet": "2025-07-17 03:08:20 +0000"
@@ -563,9 +871,39 @@
     },
     "done": true
   },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_camp": "2025-07-17 03:21:37 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-17 03:29:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-17 03:29:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-07-17 03:16:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-17 03:02:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
+    "criteria": {
+      "has_wool": "2025-07-17 03:17:48 +0000"
     },
     "done": true
   },
@@ -578,6 +916,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-07-17 02:47:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-17 03:29:20 +0000"
     },
     "done": true
   },
@@ -605,6 +949,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-17 03:29:20 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/granite_brick_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-17 03:26:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-17 03:25:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-17 03:25:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-17 02:54:29 +0000"
@@ -614,6 +982,18 @@
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_smelts_to_glass": "2025-07-17 02:54:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/gray_seat": {
+    "criteria": {
+      "has_wool": "2025-07-17 03:17:48 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/big_granite_tiles_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2025-07-17 03:26:01 +0000"
     },
     "done": true
   },
@@ -635,6 +1015,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-07-17 03:17:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-07-17 03:12:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/red_seat": {
+    "criteria": {
+      "has_wool": "2025-07-17 03:17:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_gray_seat": {
+    "criteria": {
+      "has_wool": "2025-07-17 03:17:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/orange_seat": {
+    "criteria": {
+      "has_wool": "2025-07-17 03:17:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-07-17 03:02:02 +0000"
@@ -650,6 +1060,24 @@
   "xkdeco:recipes/building_blocks/podzol_slab_from_dirt_stonecutting": {
     "criteria": {
       "has_dirt": "2025-07-17 02:46:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-07-17 03:25:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/framed_glass_from_colorless_glass_stonecutting": {
+    "criteria": {
+      "has_colorless_glass": "2025-07-17 03:29:20 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/granite_bricks_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-17 03:26:01 +0000"
     },
     "done": true
   },
@@ -671,9 +1099,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-17 03:29:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-07-17 03:02:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-17 03:29:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2025-07-17 03:26:25 +0000"
     },
     "done": true
   },
@@ -683,9 +1129,33 @@
     },
     "done": true
   },
+  "new_soviet:recipes/decorations/vintage_post_lamp_basic": {
+    "criteria": {
+      "has_lantern": "2025-07-17 03:16:43 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/white_sleeping_bag": {
+    "criteria": {
+      "has_white_wool": "2025-07-17 03:17:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2025-07-17 03:26:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-07-17 02:54:01 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/oxidized_copper_bricks": {
+    "criteria": {
+      "has_needed_items": "2025-07-17 03:26:25 +0000"
     },
     "done": true
   },
@@ -701,6 +1171,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
+    "criteria": {
+      "has_wool": "2025-07-17 03:17:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-07-17 02:51:55 +0000"
@@ -713,9 +1189,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-07-17 03:17:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2025-07-17 03:29:20 +0000"
+    },
+    "done": true
+  },
   "betterdeserttemples:root": {
     "criteria": {
       "always": "2025-07-17 02:37:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-17 03:29:20 +0000"
     },
     "done": true
   },
@@ -725,9 +1219,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-17 03:25:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-17 03:29:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-07-17 02:48:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_cut_copper_stairs": "2025-07-17 03:26:24 +0000"
     },
     "done": true
   },
@@ -761,6 +1273,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2025-07-17 03:26:01 +0000"
+    },
+    "done": true
+  },
   "xkdeco:recipes/building_blocks/dirt_path_slab_from_dirt_stonecutting": {
     "criteria": {
       "has_dirt": "2025-07-17 02:46:00 +0000"
@@ -791,6 +1309,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2025-07-17 03:17:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
+    "criteria": {
+      "has_wool": "2025-07-17 03:17:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2025-07-17 03:29:20 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/stone_tiles_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-17 03:25:59 +0000"
+    },
+    "done": true
+  },
   "new_soviet:recipes/decorations/vintage_lamp": {
     "criteria": {
       "has_torch": "2025-07-17 03:02:18 +0000"
@@ -800,6 +1342,24 @@
   "new_soviet:recipes/building_blocks/beige_green_wallpaper": {
     "criteria": {
       "has_oak_planks": "2025-07-17 03:02:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/black_seat": {
+    "criteria": {
+      "has_wool": "2025-07-17 03:17:48 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/tiled_glass": {
+    "criteria": {
+      "has_needed_items": "2025-07-17 03:29:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2025-07-17 03:26:25 +0000"
     },
     "done": true
   },
@@ -815,6 +1375,30 @@
     },
     "done": true
   },
+  "somemoreblocks:recipes/building_blocks/granite_brick_wall_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-17 03:26:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-17 03:25:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-07-17 03:12:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-07-17 03:17:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2025-07-17 03:00:58 +0000"
@@ -824,6 +1408,18 @@
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-07-17 02:42:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-07-17 03:26:00 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/stone_tile_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-17 03:25:59 +0000"
     },
     "done": true
   },
@@ -864,9 +1460,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-17 03:29:20 +0000"
+    },
+    "done": true
+  },
   "new_soviet:recipes/building_blocks/separated_oak_parquet_from_oak_planks_stonecutting": {
     "criteria": {
       "has_oak_planks": "2025-07-17 03:02:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/vertical_framed_glass_from_colorless_glass_stonecutting": {
+    "criteria": {
+      "has_colorless_glass": "2025-07-17 03:29:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/white_seat": {
+    "criteria": {
+      "has_wool": "2025-07-17 03:17:48 +0000"
     },
     "done": true
   },
@@ -875,6 +1489,12 @@
       "log_spam_fixer": "2025-07-17 02:37:31 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-17 03:29:20 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
@@ -900,6 +1520,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:cave_spider": "2025-07-17 03:16:21 +0000"
+    },
+    "done": true
+  },
   "new_soviet:recipes/building_blocks/red_linoleum": {
     "criteria": {
       "has_oak_planks": "2025-07-17 03:02:31 +0000"
@@ -909,14 +1535,27 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2025-07-17 02:51:21 +0000",
+      "minecraft:river": "2025-07-17 03:22:39 +0000",
       "minecraft:forest": "2025-07-17 02:37:31 +0000",
       "minecraft:ocean": "2025-07-17 02:42:55 +0000"
     },
     "done": false
   },
+  "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
+    "criteria": {
+      "has_wool": "2025-07-17 03:17:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-07-17 02:47:47 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-17 03:29:05 +0000"
     },
     "done": true
   },
@@ -929,6 +1568,24 @@
   "new_soviet:recipes/building_blocks/green_wallpaper": {
     "criteria": {
       "has_oak_planks": "2025-07-17 03:02:31 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/decorations/modern_post_lamp_basic": {
+    "criteria": {
+      "has_lantern": "2025-07-17 03:16:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tiled_glass_from_colorless_glass_stonecutting": {
+    "criteria": {
+      "has_colorless_glass": "2025-07-17 03:29:20 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/red_sleeping_bag": {
+    "criteria": {
+      "has_red_wool": "2025-07-17 03:17:48 +0000"
     },
     "done": true
   },
@@ -946,9 +1603,21 @@
     },
     "done": true
   },
+  "somemoreblocks:recipes/building_blocks/granite_tile_wall_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-17 03:26:01 +0000"
+    },
+    "done": true
+  },
   "new_soviet:recipes/tools/sickle": {
     "criteria": {
       "has_stick": "2025-07-17 02:42:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab_from_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2025-07-17 03:26:25 +0000"
     },
     "done": true
   },
@@ -964,15 +1633,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-07-17 03:26:00 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/decorations/caged_post_lamp": {
+    "criteria": {
+      "has_lantern": "2025-07-17 03:16:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-07-17 02:46:57 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/yellow_seat": {
+    "criteria": {
+      "has_wool": "2025-07-17 03:17:48 +0000"
+    },
+    "done": true
+  },
   "new_soviet:recipes/building_blocks/gray_linoleum": {
     "criteria": {
       "has_oak_planks": "2025-07-17 03:02:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2025-07-17 03:26:25 +0000"
     },
     "done": true
   },
