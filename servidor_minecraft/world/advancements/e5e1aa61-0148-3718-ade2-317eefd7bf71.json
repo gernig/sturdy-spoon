@@ -283,6 +283,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-07-17 05:34:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/dark_oak_window": {
     "criteria": {
       "has_ingredient": "2025-07-17 03:30:16 +0000"
@@ -530,6 +536,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-07-17 05:34:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2025-07-17 05:15:08 +0000"
@@ -569,6 +581,12 @@
   "minecraft:recipes/decorations/yellow_candle": {
     "criteria": {
       "has_yellow_dye": "2025-07-17 02:58:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-07-17 05:30:12 +0000"
     },
     "done": true
   },
@@ -784,6 +802,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-07-17 05:30:07 +0000",
       "minecraft:pillager": "2025-07-17 02:49:59 +0000",
       "minecraft:skeleton": "2025-07-17 03:02:52 +0000",
       "minecraft:vindicator": "2025-07-17 03:27:55 +0000",
@@ -2134,6 +2153,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-07-17 05:29:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-07-17 04:23:15 +0000"
@@ -3058,6 +3083,12 @@
     },
     "done": true
   },
+  "nova_structures:nether/find_nether_skeleton": {
+    "criteria": {
+      "nova_structures:nether_skeleton_tower_basalt": "2025-07-17 05:25:36 +0000"
+    },
+    "done": false
+  },
   "travelersbackpack:recipes/decorations/white_sleeping_bag": {
     "criteria": {
       "has_white_wool": "2025-07-17 03:16:00 +0000"
@@ -3532,6 +3563,12 @@
     },
     "done": true
   },
+  "nova_structures:nether/find_skeleton_tower": {
+    "criteria": {
+      "nova_structures:nether_skeleton_tower_basalt": "2025-07-17 05:25:36 +0000"
+    },
+    "done": false
+  },
   "travelersbackpack:recipes/misc/squid": {
     "criteria": {
       "has_ink_sac": "2025-07-17 02:52:33 +0000"
@@ -3856,6 +3893,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-07-17 05:34:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-17 02:53:02 +0000"
@@ -3967,6 +4010,18 @@
   "travelersbackpack:recipes/misc/lapis": {
     "criteria": {
       "has_lapis_lazuli": "2025-07-17 03:30:00 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blaze": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-17 05:30:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-17 05:30:12 +0000"
     },
     "done": true
   },
@@ -4288,6 +4343,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-07-17 02:50:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-17 05:30:12 +0000"
     },
     "done": true
   },
