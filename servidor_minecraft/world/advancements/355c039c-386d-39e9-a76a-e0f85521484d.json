@@ -179,6 +179,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-07-17 05:08:23 +0000"
+    },
+    "done": false
+  },
   "new_soviet:recipes/building_blocks/crimson_window": {
     "criteria": {
       "has_glass_pane": "2025-07-17 04:18:03 +0000"
@@ -188,6 +194,12 @@
   "somemoreblocks:recipes/building_blocks/stone_tile_slab_from_stone_stonecutting": {
     "criteria": {
       "has_needed_items": "2025-07-17 04:48:35 +0000"
+    },
+    "done": true
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-07-17 05:08:22 +0000"
     },
     "done": true
   },
@@ -691,6 +703,12 @@
   "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
     "criteria": {
       "has_item": "2025-07-17 03:14:15 +0000"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/netherrack_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-07-17 05:09:00 +0000"
     },
     "done": true
   },
@@ -1254,7 +1272,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2025-07-17 04:54:44 +0000"
+      "requirement": "2025-07-17 05:14:44 +0000"
     },
     "done": false
   },
@@ -1357,6 +1375,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-07-17 03:02:49 +0000"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/warped_nylium_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-07-17 05:09:00 +0000"
     },
     "done": true
   },
@@ -1624,6 +1648,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-07-17 05:09:00 +0000"
+    },
+    "done": true
+  },
   "xkdeco:recipes/building_blocks/dirt_slab_from_dirt_stonecutting": {
     "criteria": {
       "has_dirt": "2025-07-17 03:11:10 +0000"
@@ -1783,6 +1813,12 @@
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-07-17 03:10:37 +0000"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/crimson_nylium_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-07-17 05:09:00 +0000"
     },
     "done": true
   },
@@ -2026,6 +2062,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/standard_smithing": {
+    "criteria": {
+      "has_standard": "2025-07-17 04:57:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_smelts_to_glass": "2025-07-17 02:59:38 +0000"
@@ -2083,6 +2125,12 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-07-17 03:05:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-07-17 05:08:22 +0000"
     },
     "done": true
   },
@@ -2905,6 +2953,12 @@
   "new_soviet:recipes/misc/antenna": {
     "criteria": {
       "has_iron_ingot": "2025-07-17 02:53:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-07-17 05:08:22 +0000"
     },
     "done": true
   },
