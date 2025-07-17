@@ -435,6 +435,7 @@
     "criteria": {
       "minecraft:spider": "2025-07-17 03:24:42 +0000",
       "minecraft:cave_spider": "2025-07-17 03:16:21 +0000",
+      "minecraft:zombie": "2025-07-17 04:18:44 +0000",
       "minecraft:zombie_villager": "2025-07-17 03:24:48 +0000"
     },
     "done": false
@@ -442,6 +443,12 @@
   "somemoreblocks:recipes/building_blocks/stone_tiles": {
     "criteria": {
       "has_needed_items": "2025-07-17 03:25:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-07-17 04:21:56 +0000"
     },
     "done": true
   },
@@ -811,6 +818,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-07-17 04:21:56 +0000"
+    },
+    "done": true
+  },
   "new_soviet:recipes/building_blocks/blue_linoleum": {
     "criteria": {
       "has_oak_planks": "2025-07-17 03:02:31 +0000"
@@ -1132,6 +1145,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-07-17 02:47:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-07-17 04:15:42 +0000"
     },
     "done": true
   },
