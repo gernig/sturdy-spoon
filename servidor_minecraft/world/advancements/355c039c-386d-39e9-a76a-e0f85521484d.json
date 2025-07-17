@@ -305,6 +305,12 @@
     },
     "done": true
   },
+  "new_soviet:recipes/building_blocks/nii_wall_3_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-17 05:18:34 +0000"
+    },
+    "done": true
+  },
   "new_soviet:recipes/decorations/golden_table_lamp": {
     "criteria": {
       "has_gold_nugget": "2025-07-17 02:54:59 +0000"
@@ -338,6 +344,12 @@
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2025-07-17 03:40:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-17 05:18:34 +0000"
     },
     "done": true
   },
@@ -616,6 +628,12 @@
     },
     "done": false
   },
+  "somemoreblocks:recipes/building_blocks/stone_tiles": {
+    "criteria": {
+      "has_needed_items": "2025-07-17 05:18:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
     "criteria": {
       "has_wool": "2025-07-17 04:21:39 +0000"
@@ -814,6 +832,12 @@
     },
     "done": true
   },
+  "somemoreblocks:recipes/building_blocks/stone_tile_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-17 05:18:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2025-07-17 03:40:28 +0000"
@@ -847,6 +871,12 @@
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_hay_block": "2025-07-17 02:51:25 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/stone_tile_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-17 05:18:34 +0000"
     },
     "done": true
   },
@@ -1126,6 +1156,12 @@
     },
     "done": true
   },
+  "somemoreblocks:recipes/building_blocks/stone_pillar": {
+    "criteria": {
+      "has_needed_items": "2025-07-17 05:18:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-07-17 03:21:32 +0000"
@@ -1246,6 +1282,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-17 05:18:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-07-17 02:53:27 +0000"
@@ -1270,12 +1312,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-07-17 05:14:44 +0000"
-    },
-    "done": false
-  },
   "new_soviet:recipes/building_blocks/yellow_red_linoleum": {
     "criteria": {
       "has_oak_planks": "2025-07-17 02:49:30 +0000"
@@ -1291,6 +1327,12 @@
   "somemoreblocks:recipes/building_blocks/polished_stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_needed_items": "2025-07-17 04:48:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-17 05:18:34 +0000"
     },
     "done": true
   },
@@ -1876,6 +1918,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-17 05:18:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-17 03:41:34 +0000"
@@ -2044,9 +2092,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-17 05:18:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-07-17 02:53:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-17 05:18:34 +0000"
     },
     "done": true
   },
@@ -2251,6 +2311,12 @@
   "xkdeco:recipes/building_blocks/podzol_slab_from_dirt_stonecutting": {
     "criteria": {
       "has_dirt": "2025-07-17 03:11:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-07-17 05:18:34 +0000"
     },
     "done": true
   },
@@ -2584,6 +2650,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-17 05:18:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-17 04:17:14 +0000"
@@ -2860,6 +2932,12 @@
     },
     "done": true
   },
+  "somemoreblocks:recipes/building_blocks/stone_tiles_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-17 05:18:34 +0000"
+    },
+    "done": true
+  },
   "new_soviet:recipes/decorations/siren": {
     "criteria": {
       "has_redstone": "2025-07-17 03:05:11 +0000"
@@ -2956,6 +3034,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-17 05:18:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-07-17 05:08:22 +0000"
@@ -3049,6 +3133,12 @@
   "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
     "criteria": {
       "has_item": "2025-07-17 03:05:11 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/stone_tile_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-17 05:18:34 +0000"
     },
     "done": true
   },
