@@ -100,12 +100,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-07-17 03:53:06 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2025-07-17 02:58:23 +0000"
@@ -181,6 +175,12 @@
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-17 03:16:57 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/jungle_pane_window_shapeless": {
+    "criteria": {
+      "has_jungle_slab": "2025-07-17 03:54:13 +0000"
     },
     "done": true
   },
@@ -2545,6 +2545,12 @@
     },
     "done": true
   },
+  "new_soviet:recipes/building_blocks/jungle_pane_window": {
+    "criteria": {
+      "has_jungle_slab": "2025-07-17 03:54:13 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/squid": {
     "criteria": {
       "has_ink_sac": "2025-07-17 02:52:33 +0000"
@@ -2713,6 +2719,12 @@
     },
     "done": true
   },
+  "new_soviet:recipes/building_blocks/jungle_window": {
+    "criteria": {
+      "has_jungle_slab": "2025-07-17 03:54:13 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/building_blocks/dye_yellow_sleeping_bag": {
     "criteria": {
       "has_needed_dye": "2025-07-17 02:58:19 +0000"
@@ -2764,6 +2776,12 @@
   "new_soviet:recipes/building_blocks/separated_oak_parquet_from_oak_planks_stonecutting": {
     "criteria": {
       "has_oak_planks": "2025-07-17 02:50:10 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/jungle_mosaic": {
+    "criteria": {
+      "has_needed_items": "2025-07-17 03:54:13 +0000"
     },
     "done": true
   },
