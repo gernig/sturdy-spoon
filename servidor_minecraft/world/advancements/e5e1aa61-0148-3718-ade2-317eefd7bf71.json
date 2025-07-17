@@ -104,6 +104,79 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-17 05:56:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-07-17 05:56:29 +0000",
+      "log_spam_fixer": "2025-07-17 05:56:02 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-17 05:56:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-17 05:56:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-17 05:56:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-17 05:56:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-17 05:56:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-17 05:56:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-17 05:56:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-17 05:56:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-17 05:56:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-17 05:56:02 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2025-07-17 02:58:23 +0000"
@@ -185,6 +258,12 @@
   "xkdeco:recipes/building_blocks/sandy_cobblestone": {
     "criteria": {
       "has_item": "2025-07-17 03:07:33 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/diamond_pillar": {
+    "criteria": {
+      "has_needed_items": "2025-07-17 05:56:26 +0000"
     },
     "done": true
   },
@@ -930,6 +1009,7 @@
       "minecraft:cave_spider": "2025-07-17 02:50:57 +0000",
       "minecraft:piglin": "2025-07-17 05:17:37 +0000",
       "minecraft:enderman": "2025-07-17 04:33:48 +0000",
+      "minecraft:silverfish": "2025-07-17 05:45:44 +0000",
       "minecraft:stray": "2025-07-17 03:00:21 +0000",
       "minecraft:zombie": "2025-07-17 03:00:25 +0000",
       "minecraft:drowned": "2025-07-17 03:02:09 +0000"
@@ -2964,6 +3044,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-07-17 05:56:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_helmet": "2025-07-17 05:44:55 +0000"
@@ -4896,6 +4982,12 @@
   "minecraft:recipes/tools/netherite_pickaxe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-07-17 05:21:49 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/cut_diamond": {
+    "criteria": {
+      "has_needed_items": "2025-07-17 05:56:26 +0000"
     },
     "done": true
   },

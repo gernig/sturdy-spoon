@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-17 05:47:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-07-17 04:18:03 +0000"
@@ -110,6 +116,12 @@
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-07-17 03:40:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-07-17 05:48:34 +0000"
     },
     "done": true
   },
@@ -200,6 +212,12 @@
   "incendium:root": {
     "criteria": {
       "requirement": "2025-07-17 05:08:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-07-17 05:47:55 +0000"
     },
     "done": true
   },
@@ -383,6 +401,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_helmet": "2025-07-17 05:49:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-17 02:59:38 +0000"
@@ -392,6 +416,12 @@
   "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
     "criteria": {
       "has_wool": "2025-07-17 04:21:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-07-17 05:48:08 +0000"
     },
     "done": true
   },
@@ -1426,6 +1456,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-07-17 05:47:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-07-17 02:49:49 +0000"
@@ -1483,6 +1519,18 @@
   "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-07-17 04:18:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2025-07-17 05:46:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-07-17 05:47:55 +0000"
     },
     "done": true
   },
@@ -1627,6 +1675,12 @@
   "new_soviet:recipes/building_blocks/cross_jungle_planks_from_jungle_planks_stonecutting": {
     "criteria": {
       "has_jungle_planks": "2025-07-17 03:36:59 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/glow_goop": {
+    "criteria": {
+      "has_glow_berries": "2025-07-17 05:50:47 +0000"
     },
     "done": true
   },
@@ -1894,6 +1948,12 @@
     },
     "done": true
   },
+  "somemoreblocks:recipes/building_blocks/coal_pillar": {
+    "criteria": {
+      "has_needed_items": "2025-07-17 05:48:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-07-17 03:04:33 +0000"
@@ -2047,6 +2107,12 @@
   "new_soviet:recipes/building_blocks/acacia_window": {
     "criteria": {
       "has_glass_pane": "2025-07-17 04:18:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2025-07-17 05:49:29 +0000"
     },
     "done": true
   },
@@ -3010,6 +3076,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-07-17 05:47:55 +0000"
+    },
+    "done": true
+  },
   "new_soviet:recipes/building_blocks/brown_linoleum": {
     "criteria": {
       "has_oak_planks": "2025-07-17 02:49:30 +0000"
@@ -3124,9 +3196,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2025-07-17 05:47:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-07-17 02:49:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2025-07-17 05:47:26 +0000"
     },
     "done": true
   },
@@ -3145,6 +3229,12 @@
   "travelersbackpack:recipes/misc/wolf": {
     "criteria": {
       "has_bone": "2025-07-17 02:58:04 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/cut_coal": {
+    "criteria": {
+      "has_needed_items": "2025-07-17 05:48:08 +0000"
     },
     "done": true
   },
@@ -3425,7 +3515,9 @@
       "minecraft:beach": "2025-07-17 02:38:43 +0000",
       "minecraft:river": "2025-07-17 02:50:32 +0000",
       "minecraft:forest": "2025-07-17 02:37:58 +0000",
-      "minecraft:ocean": "2025-07-17 02:38:18 +0000"
+      "minecraft:lush_caves": "2025-07-17 05:46:14 +0000",
+      "minecraft:ocean": "2025-07-17 02:38:18 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-07-17 05:54:26 +0000"
     },
     "done": false
   },
