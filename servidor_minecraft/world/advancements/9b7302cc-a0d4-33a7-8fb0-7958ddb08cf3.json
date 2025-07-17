@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/birch_window": {
+    "criteria": {
+      "has_ingredient": "2025-07-17 04:28:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-17 03:53:17 +0000"
@@ -44,6 +50,12 @@
   "xkdeco:recipes/building_blocks/sandy_cobblestone": {
     "criteria": {
       "has_item": "2025-07-17 02:54:29 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/cross_birch_planks_from_birch_planks_stonecutting": {
+    "criteria": {
+      "has_birch_planks": "2025-07-17 04:28:37 +0000"
     },
     "done": true
   },
@@ -80,6 +92,12 @@
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-17 03:29:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-07-17 04:28:37 +0000"
     },
     "done": true
   },
@@ -203,9 +221,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-07-17 04:28:37 +0000"
+    },
+    "done": true
+  },
   "create:root": {
     "criteria": {
       "0": "2025-07-17 02:42:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-07-17 04:28:37 +0000"
     },
     "done": true
   },
@@ -425,6 +455,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-07-17 04:28:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-07-17 02:54:01 +0000"
@@ -479,6 +515,12 @@
   "somemoreblocks:recipes/building_blocks/polished_calcite_slab_from_calcite_stonecutting": {
     "criteria": {
       "has_needed_items": "2025-07-17 03:56:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-17 04:28:37 +0000"
     },
     "done": true
   },
@@ -569,6 +611,12 @@
   "somemoreblocks:recipes/building_blocks/stone_tile_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_needed_items": "2025-07-17 03:25:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-07-17 04:28:37 +0000"
     },
     "done": true
   },
@@ -701,6 +749,12 @@
   "incendium:technical/new_player": {
     "criteria": {
       "requirement": "2025-07-17 02:37:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-17 04:28:37 +0000"
     },
     "done": true
   },
@@ -1013,6 +1067,12 @@
   "create:recipes/building_blocks/calcite_pillar_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-07-17 03:56:06 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/herringbone_birch_planks_from_birch_planks_stonecutting": {
+    "criteria": {
+      "has_birch_planks": "2025-07-17 04:28:37 +0000"
     },
     "done": true
   },
@@ -2475,6 +2535,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-17 04:28:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-17 02:46:52 +0000"
@@ -2673,6 +2739,12 @@
   "travelersbackpack:recipes/misc/bookshelf": {
     "criteria": {
       "has_book": "2025-07-17 03:29:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-17 04:28:37 +0000"
     },
     "done": true
   },
