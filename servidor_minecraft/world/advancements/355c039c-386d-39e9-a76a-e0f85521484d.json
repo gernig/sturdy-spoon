@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-17 06:34:02 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-07-17 02:57:56 +0000"
@@ -472,6 +478,12 @@
       "has_needed_items": "2025-07-17 04:48:35 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-17 06:34:02 +0000"
+    },
+    "done": false
   },
   "new_soviet:recipes/building_blocks/dark_oak_pane_window": {
     "criteria": {
@@ -1043,6 +1055,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-17 06:34:02 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2025-07-17 03:41:38 +0000"
@@ -1343,6 +1361,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-17 06:34:02 +0000"
+    },
+    "done": false
+  },
   "new_soviet:recipes/building_blocks/yellow_red_linoleum": {
     "criteria": {
       "has_oak_planks": "2025-07-17 02:49:30 +0000"
@@ -1607,6 +1631,12 @@
     },
     "done": true
   },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-17 06:34:02 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-07-17 04:18:08 +0000"
@@ -1636,6 +1666,12 @@
       "has_iron_ingot": "2025-07-17 02:53:27 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-17 06:34:02 +0000"
+    },
+    "done": false
   },
   "new_soviet:recipes/decorations/tv": {
     "criteria": {
@@ -2033,6 +2069,12 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-17 06:34:02 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-17 04:17:14 +0000"
@@ -2278,6 +2320,12 @@
       "has_gold_nugget": "2025-07-17 02:54:59 +0000"
     },
     "done": true
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-17 06:34:02 +0000"
+    },
+    "done": false
   },
   "xkdeco:recipes/building_blocks/dirt_cobblestone": {
     "criteria": {
@@ -2537,6 +2585,12 @@
     },
     "done": true
   },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-17 06:34:02 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2025-07-17 04:48:35 +0000"
@@ -2663,6 +2717,12 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-17 06:34:02 +0000"
+    },
+    "done": false
+  },
   "create:recipes/building_blocks/crafting/kinetics/purple_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2025-07-17 04:22:08 +0000"
@@ -2788,6 +2848,12 @@
       "has_allium": "2025-07-17 04:25:12 +0000"
     },
     "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-17 06:34:02 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
@@ -3052,6 +3118,12 @@
       "has_iron_ingot": "2025-07-17 02:53:27 +0000"
     },
     "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-17 06:34:02 +0000"
+    },
+    "done": false
   },
   "somemoreblocks:recipes/building_blocks/tiled_glass": {
     "criteria": {

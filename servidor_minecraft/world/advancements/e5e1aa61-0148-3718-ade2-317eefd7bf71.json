@@ -115,7 +115,8 @@
       "cooked_porkchop": "2025-07-17 03:30:11 +0000",
       "apple": "2025-07-17 02:45:34 +0000",
       "bread": "2025-07-17 02:51:27 +0000",
-      "golden_apple": "2025-07-17 05:15:35 +0000"
+      "golden_apple": "2025-07-17 05:15:35 +0000",
+      "melon_slice": "2025-07-17 06:31:29 +0000"
     },
     "done": false
   },
@@ -5752,6 +5753,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-07-17 06:35:02 +0000"
+    },
+    "done": false
+  },
   "create:andesite_casing": {
     "criteria": {
       "0": "2025-07-17 06:13:04 +0000"
@@ -5857,6 +5864,24 @@
   "create:recipes/misc/crafting/kinetics/gearshift": {
     "criteria": {
       "has_item": "2025-07-17 06:13:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-07-17 06:28:45 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/melon_smithing": {
+    "criteria": {
+      "has_melon": "2025-07-17 06:30:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-17 06:28:45 +0000"
     },
     "done": true
   },
