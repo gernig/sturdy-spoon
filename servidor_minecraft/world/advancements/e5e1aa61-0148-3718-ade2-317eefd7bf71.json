@@ -130,6 +130,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/birch_window": {
+    "criteria": {
+      "has_ingredient": "2025-07-17 03:39:46 +0000"
+    },
+    "done": true
+  },
   "new_soviet:recipes/building_blocks/herringbone_dark_oak_parquet_from_dark_oak_planks_stonecutting": {
     "criteria": {
       "has_dark_oak_planks": "2025-07-17 03:30:16 +0000"
@@ -148,6 +154,12 @@
     },
     "done": true
   },
+  "new_soviet:recipes/building_blocks/cross_birch_planks_from_birch_planks_stonecutting": {
+    "criteria": {
+      "has_birch_planks": "2025-07-17 03:39:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-07-17 02:52:16 +0000"
@@ -163,6 +175,12 @@
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-17 03:16:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-07-17 03:39:46 +0000"
     },
     "done": true
   },
@@ -322,9 +340,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-07-17 03:39:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/pulse_extender": {
     "criteria": {
       "has_item": "2025-07-17 03:29:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-07-17 03:39:46 +0000"
     },
     "done": true
   },
@@ -526,6 +556,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-07-17 03:39:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-07-17 02:48:26 +0000"
@@ -637,6 +673,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-17 03:39:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
     "criteria": {
       "has_item": "2025-07-17 03:14:19 +0000"
@@ -736,6 +778,12 @@
   "somemoreblocks:recipes/building_blocks/stone_tile_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_needed_items": "2025-07-17 02:58:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-07-17 03:39:46 +0000"
     },
     "done": true
   },
@@ -844,6 +892,12 @@
   "new_soviet:recipes/building_blocks/light_blue_wallpaper": {
     "criteria": {
       "has_oak_planks": "2025-07-17 02:50:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-17 03:39:46 +0000"
     },
     "done": true
   },
@@ -1162,6 +1216,12 @@
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2025-07-17 03:28:41 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/herringbone_birch_planks_from_birch_planks_stonecutting": {
+    "criteria": {
+      "has_birch_planks": "2025-07-17 03:39:46 +0000"
     },
     "done": true
   },
@@ -2053,6 +2113,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-07-17 03:31:59 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/emerald": {
     "criteria": {
       "has_emerald": "2025-07-17 02:47:28 +0000"
@@ -2605,6 +2671,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-17 03:39:46 +0000"
+    },
+    "done": true
+  },
   "new_soviet:recipes/building_blocks/red_concrete": {
     "criteria": {
       "has_stone": "2025-07-17 02:58:23 +0000"
@@ -2794,6 +2866,12 @@
   "travelersbackpack:recipes/misc/bookshelf": {
     "criteria": {
       "has_book": "2025-07-17 02:52:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-17 03:39:46 +0000"
     },
     "done": true
   },
