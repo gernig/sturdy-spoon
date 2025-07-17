@@ -5753,9 +5753,75 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-17 06:57:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-17 06:57:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-17 06:57:02 +0000"
+    },
+    "done": false
+  },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2025-07-17 06:45:02 +0000"
+      "log_spam_fixer": "2025-07-17 06:57:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-17 06:57:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-17 06:57:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-17 06:57:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-17 06:57:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-17 06:57:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-17 06:57:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-17 06:57:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-17 06:57:02 +0000"
     },
     "done": false
   },
@@ -5933,6 +5999,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-07-17 06:45:28 +0000"
+    },
+    "done": true
+  },
   "somemoreblocks:recipes/building_blocks/polished_calcite_slab_from_calcite_stonecutting": {
     "criteria": {
       "has_needed_items": "2025-07-17 06:41:52 +0000"
@@ -5960,6 +6032,12 @@
   "minecraft:recipes/decorations/oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-07-17 06:28:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-07-17 06:54:25 +0000"
     },
     "done": true
   },
@@ -6047,6 +6125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-07-17 06:45:28 +0000"
+    },
+    "done": true
+  },
   "somemoreblocks:recipes/building_blocks/calcite_tiles_from_calcite_stonecutting": {
     "criteria": {
       "has_needed_items": "2025-07-17 06:41:52 +0000"
@@ -6074,6 +6158,18 @@
   "create:recipes/building_blocks/cut_diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-07-17 06:42:29 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/misc/glowstone_dust": {
+    "criteria": {
+      "has_needed_items": "2025-07-17 06:47:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-07-17 06:54:25 +0000"
     },
     "done": true
   },
@@ -6224,6 +6320,12 @@
   "somemoreblocks:recipes/building_blocks/calcite_tile_slab_from_calcite_stonecutting": {
     "criteria": {
       "has_needed_items": "2025-07-17 06:41:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-07-17 06:54:25 +0000"
     },
     "done": true
   },
