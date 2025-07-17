@@ -5122,78 +5122,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-17 06:13:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-17 06:13:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-17 06:13:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-17 06:13:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-17 06:13:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-17 06:13:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-17 06:13:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-17 06:13:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-17 06:13:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-17 06:13:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-17 06:13:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-17 06:13:02 +0000"
-    },
-    "done": false
-  },
   "somemoreblocks:recipes/building_blocks/diamond_pillar": {
     "criteria": {
       "has_needed_items": "2025-07-17 05:56:26 +0000"
@@ -5212,9 +5140,87 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/mechanical_saw": {
+  "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
-      "has_item": "2025-07-17 06:13:22 +0000"
+      "has_stone_slab": "2025-07-17 05:58:55 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/andesite_bricks_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-17 06:02:14 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/andesite_brick_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-17 06:02:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-17 06:02:14 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/andesite_brick_wall_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-17 06:02:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-17 06:02:14 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/andesite_tiles_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-17 06:02:14 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/andesite_tile_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-17 06:02:14 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/andesite_bricks": {
+    "criteria": {
+      "has_needed_items": "2025-07-17 06:02:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-17 06:02:14 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/andesite_brick_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-17 06:02:14 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/granite_tile_wall_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-17 06:02:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-17 06:02:14 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/andesite_tile_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-17 06:02:14 +0000"
     },
     "done": true
   },
@@ -5224,45 +5230,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/chute": {
-    "criteria": {
-      "has_item": "2025-07-17 06:11:35 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/wrench": {
-    "criteria": {
-      "has_item": "2025-07-17 06:11:35 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/rose_quartz_lamp": {
-    "criteria": {
-      "has_item": "2025-07-17 06:12:22 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/gantry_shaft": {
-    "criteria": {
-      "has_item": "2025-07-17 06:11:35 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-07-17 06:10:53 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/mechanical_press": {
-    "criteria": {
-      "has_item": "2025-07-17 06:13:22 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/rope_pulley": {
-    "criteria": {
-      "has_item": "2025-07-17 06:11:35 +0000"
     },
     "done": true
   },
@@ -5284,93 +5254,15 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/andesite_door": {
-    "criteria": {
-      "has_item": "2025-07-17 06:13:22 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/water_wheel": {
-    "criteria": {
-      "has_item": "2025-07-17 06:11:35 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/large_cogwheel_from_little": {
-    "criteria": {
-      "has_item": "2025-07-17 06:11:35 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/portable_storage_interface": {
-    "criteria": {
-      "has_item": "2025-07-17 06:13:22 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/andesite_alloy_block": {
-    "criteria": {
-      "has_item": "2025-07-17 06:11:35 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/wooden_bracket": {
-    "criteria": {
-      "has_item": "2025-07-17 06:11:35 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/weighted_ejector": {
-    "criteria": {
-      "has_item": "2025-07-17 06:13:22 +0000"
-    },
-    "done": true
-  },
   "somemoreblocks:recipes/building_blocks/andesite_pillar_from_andesite_stonecutting": {
     "criteria": {
       "has_needed_items": "2025-07-17 06:10:53 +0000"
     },
     "done": true
   },
-  "somemoreblocks:recipes/building_blocks/andesite_bricks_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_needed_items": "2025-07-17 06:02:14 +0000"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/andesite_brick_stairs_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_needed_items": "2025-07-17 06:02:14 +0000"
-    },
-    "done": true
-  },
   "somemoreblocks:recipes/building_blocks/andesite_tiles_from_andesite_stonecutting": {
     "criteria": {
       "has_needed_items": "2025-07-17 06:10:53 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/mechanical_plough": {
-    "criteria": {
-      "has_item": "2025-07-17 06:13:22 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/belt_connector": {
-    "criteria": {
-      "has_item": "2025-07-17 06:11:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_polished_andesite": "2025-07-17 06:02:14 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/mechanical_harvester": {
-    "criteria": {
-      "has_item": "2025-07-17 06:13:22 +0000"
     },
     "done": true
   },
@@ -5392,57 +5284,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/curiosities/minecart_coupling": {
-    "criteria": {
-      "has_item": "2025-07-17 06:11:35 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/clutch": {
-    "criteria": {
-      "has_item": "2025-07-17 06:13:22 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/depot": {
-    "criteria": {
-      "has_item": "2025-07-17 06:13:22 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/metal_girder": {
-    "criteria": {
-      "has_item": "2025-07-17 06:11:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-07-17 06:10:53 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/copycat_panel_from_zinc_ingots_stonecutting": {
-    "criteria": {
-      "has_zinc_ingots": "2025-07-17 06:12:22 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/shaft": {
-    "criteria": {
-      "has_item": "2025-07-17 06:11:35 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/hand_crank": {
-    "criteria": {
-      "has_item": "2025-07-17 06:11:35 +0000"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/andesite_brick_wall_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_needed_items": "2025-07-17 06:02:14 +0000"
     },
     "done": true
   },
@@ -5452,45 +5296,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_slab": {
-    "criteria": {
-      "has_polished_andesite": "2025-07-17 06:02:14 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/turntable": {
-    "criteria": {
-      "has_item": "2025-07-17 06:11:35 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-07-17 06:10:53 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/encased_chain_drive": {
-    "criteria": {
-      "has_item": "2025-07-17 06:13:22 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/mechanical_drill": {
-    "criteria": {
-      "has_item": "2025-07-17 06:13:22 +0000"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/andesite_tiles_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_needed_items": "2025-07-17 06:02:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/armor_stand": {
-    "criteria": {
-      "has_stone_slab": "2025-07-17 05:58:55 +0000"
     },
     "done": true
   },
@@ -5500,27 +5308,9 @@
     },
     "done": true
   },
-  "create:recipes/decorations/andesite_bars_from_andesite_alloy_stonecutting": {
-    "criteria": {
-      "has_andesite_alloy": "2025-07-17 06:11:35 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/sticker": {
-    "criteria": {
-      "has_item": "2025-07-17 06:11:35 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-07-17 06:10:53 +0000"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/andesite_tile_slab_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_needed_items": "2025-07-17 06:02:14 +0000"
     },
     "done": true
   },
@@ -5536,15 +5326,243 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/radial_chassis": {
+  "create:recipes/building_blocks/layered_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-17 06:10:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-17 06:10:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-17 06:10:53 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/smooth_andesite": {
+    "criteria": {
+      "has_needed_items": "2025-07-17 06:10:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-17 06:10:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-17 06:10:53 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/andesite_tile_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-17 06:10:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-17 06:10:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-17 06:10:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-17 06:10:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-17 06:10:53 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/andesite_brick_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-17 06:10:53 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/andesite_brick_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-17 06:10:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-17 06:10:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-17 06:10:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-17 06:10:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-17 06:10:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-07-17 06:10:53 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/andesite_brick_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-17 06:10:53 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/chiseled_andesite_bricks_from_andesite_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-17 06:10:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-07-17 06:10:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-07-17 06:10:53 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/andesite_bricks_from_andesite_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-17 06:10:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/chute": {
     "criteria": {
       "has_item": "2025-07-17 06:11:35 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/mechanical_piston": {
+  "create:recipes/misc/crafting/kinetics/wrench": {
     "criteria": {
-      "has_item": "2025-07-17 06:13:22 +0000"
+      "has_item": "2025-07-17 06:11:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gantry_shaft": {
+    "criteria": {
+      "has_item": "2025-07-17 06:11:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/rope_pulley": {
+    "criteria": {
+      "has_item": "2025-07-17 06:11:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/water_wheel": {
+    "criteria": {
+      "has_item": "2025-07-17 06:11:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/large_cogwheel_from_little": {
+    "criteria": {
+      "has_item": "2025-07-17 06:11:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy_block": {
+    "criteria": {
+      "has_item": "2025-07-17 06:11:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/wooden_bracket": {
+    "criteria": {
+      "has_item": "2025-07-17 06:11:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/belt_connector": {
+    "criteria": {
+      "has_item": "2025-07-17 06:11:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/minecart_coupling": {
+    "criteria": {
+      "has_item": "2025-07-17 06:11:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/metal_girder": {
+    "criteria": {
+      "has_item": "2025-07-17 06:11:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/shaft": {
+    "criteria": {
+      "has_item": "2025-07-17 06:11:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/hand_crank": {
+    "criteria": {
+      "has_item": "2025-07-17 06:11:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/turntable": {
+    "criteria": {
+      "has_item": "2025-07-17 06:11:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/andesite_bars_from_andesite_alloy_stonecutting": {
+    "criteria": {
+      "has_andesite_alloy": "2025-07-17 06:11:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/sticker": {
+    "criteria": {
+      "has_item": "2025-07-17 06:11:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/radial_chassis": {
+    "criteria": {
+      "has_item": "2025-07-17 06:11:35 +0000"
     },
     "done": true
   },
@@ -5566,21 +5584,9 @@
     },
     "done": true
   },
-  "somemoreblocks:recipes/building_blocks/andesite_bricks": {
-    "criteria": {
-      "has_needed_items": "2025-07-17 06:02:14 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/display_board": {
     "criteria": {
       "has_item": "2025-07-17 06:11:35 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/layered_andesite_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2025-07-17 06:10:53 +0000"
     },
     "done": true
   },
@@ -5626,18 +5632,6 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/mechanical_roller": {
-    "criteria": {
-      "has_item": "2025-07-17 06:13:22 +0000"
-    },
-    "done": true
-  },
-  "create:andesite_casing": {
-    "criteria": {
-      "0": "2025-07-17 06:13:04 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/filter": {
     "criteria": {
       "has_item": "2025-07-17 06:11:35 +0000"
@@ -5647,42 +5641,6 @@
   "create:recipes/misc/crafting/kinetics/white_sail": {
     "criteria": {
       "has_item": "2025-07-17 06:11:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-07-17 06:10:53 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/mechanical_bearing": {
-    "criteria": {
-      "has_item": "2025-07-17 06:13:22 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/andesite_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2025-07-17 06:10:53 +0000"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/smooth_andesite": {
-    "criteria": {
-      "has_needed_items": "2025-07-17 06:10:53 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_andesite_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2025-07-17 06:10:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-07-17 06:10:53 +0000"
     },
     "done": true
   },
@@ -5698,33 +5656,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/gantry_carriage": {
-    "criteria": {
-      "has_item": "2025-07-17 06:13:22 +0000"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/andesite_tile_slab_from_andesite_stonecutting": {
-    "criteria": {
-      "has_needed_items": "2025-07-17 06:10:53 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/logistics/andesite_tunnel": {
     "criteria": {
       "has_item": "2025-07-17 06:11:35 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/millstone": {
-    "criteria": {
-      "has_item": "2025-07-17 06:13:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-07-17 06:10:53 +0000"
     },
     "done": true
   },
@@ -5740,12 +5674,6 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/materials/zinc_block_from_compacting": {
-    "criteria": {
-      "has_item": "2025-07-17 06:12:22 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/large_cogwheel": {
     "criteria": {
       "has_item": "2025-07-17 06:11:35 +0000"
@@ -5758,93 +5686,15 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_andesite_slab_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2025-07-17 06:10:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-07-17 06:10:53 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2025-07-17 06:10:53 +0000"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/andesite_brick_stairs_from_andesite_stonecutting": {
-    "criteria": {
-      "has_needed_items": "2025-07-17 06:10:53 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/mechanical_mixer": {
     "criteria": {
       "has_item": "2025-07-17 06:11:35 +0000"
     },
     "done": true
   },
-  "somemoreblocks:recipes/building_blocks/andesite_brick_slab_from_andesite_stonecutting": {
-    "criteria": {
-      "has_needed_items": "2025-07-17 06:10:53 +0000"
-    },
-    "done": true
-  },
   "create:recipes/decorations/andesite_ladder_from_andesite_alloy_stonecutting": {
     "criteria": {
       "has_andesite_alloy": "2025-07-17 06:11:35 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/andesite_alloy_from_zinc": {
-    "criteria": {
-      "has_item": "2025-07-17 06:12:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
-    "criteria": {
-      "has_polished_andesite": "2025-07-17 06:02:14 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2025-07-17 06:10:53 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/copycat_step_from_zinc_ingots_stonecutting": {
-    "criteria": {
-      "has_zinc_ingots": "2025-07-17 06:12:22 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2025-07-17 06:10:53 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_andesite_wall_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2025-07-17 06:10:53 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2025-07-17 06:10:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite": {
-    "criteria": {
-      "has_andesite": "2025-07-17 06:10:53 +0000"
     },
     "done": true
   },
@@ -5860,51 +5710,39 @@
     },
     "done": true
   },
-  "somemoreblocks:recipes/building_blocks/andesite_brick_slab_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_needed_items": "2025-07-17 06:02:14 +0000"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/granite_tile_wall_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_needed_items": "2025-07-17 06:02:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_polished_andesite": "2025-07-17 06:02:14 +0000"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/andesite_brick_wall_from_andesite_stonecutting": {
-    "criteria": {
-      "has_needed_items": "2025-07-17 06:10:53 +0000"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/chiseled_andesite_bricks_from_andesite_stonecutting": {
-    "criteria": {
-      "has_needed_items": "2025-07-17 06:10:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/andesite_wall": {
-    "criteria": {
-      "has_andesite": "2025-07-17 06:10:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_slab": {
-    "criteria": {
-      "has_andesite": "2025-07-17 06:10:53 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/metal_bracket": {
     "criteria": {
       "has_item": "2025-07-17 06:11:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/rose_quartz_lamp": {
+    "criteria": {
+      "has_item": "2025-07-17 06:12:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copycat_panel_from_zinc_ingots_stonecutting": {
+    "criteria": {
+      "has_zinc_ingots": "2025-07-17 06:12:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/zinc_block_from_compacting": {
+    "criteria": {
+      "has_item": "2025-07-17 06:12:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy_from_zinc": {
+    "criteria": {
+      "has_item": "2025-07-17 06:12:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copycat_step_from_zinc_ingots_stonecutting": {
+    "criteria": {
+      "has_zinc_ingots": "2025-07-17 06:12:22 +0000"
     },
     "done": true
   },
@@ -5914,21 +5752,111 @@
     },
     "done": true
   },
-  "somemoreblocks:recipes/building_blocks/andesite_bricks_from_andesite_stonecutting": {
+  "create:andesite_casing": {
     "criteria": {
-      "has_needed_items": "2025-07-17 06:10:53 +0000"
+      "0": "2025-07-17 06:13:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_saw": {
+    "criteria": {
+      "has_item": "2025-07-17 06:13:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_press": {
+    "criteria": {
+      "has_item": "2025-07-17 06:13:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/andesite_door": {
+    "criteria": {
+      "has_item": "2025-07-17 06:13:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/portable_storage_interface": {
+    "criteria": {
+      "has_item": "2025-07-17 06:13:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/weighted_ejector": {
+    "criteria": {
+      "has_item": "2025-07-17 06:13:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_plough": {
+    "criteria": {
+      "has_item": "2025-07-17 06:13:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_harvester": {
+    "criteria": {
+      "has_item": "2025-07-17 06:13:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/clutch": {
+    "criteria": {
+      "has_item": "2025-07-17 06:13:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/depot": {
+    "criteria": {
+      "has_item": "2025-07-17 06:13:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/encased_chain_drive": {
+    "criteria": {
+      "has_item": "2025-07-17 06:13:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_drill": {
+    "criteria": {
+      "has_item": "2025-07-17 06:13:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_piston": {
+    "criteria": {
+      "has_item": "2025-07-17 06:13:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_roller": {
+    "criteria": {
+      "has_item": "2025-07-17 06:13:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_bearing": {
+    "criteria": {
+      "has_item": "2025-07-17 06:13:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gantry_carriage": {
+    "criteria": {
+      "has_item": "2025-07-17 06:13:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/millstone": {
+    "criteria": {
+      "has_item": "2025-07-17 06:13:22 +0000"
     },
     "done": true
   },
   "create:recipes/misc/crafting/kinetics/gearshift": {
     "criteria": {
       "has_item": "2025-07-17 06:13:22 +0000"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/andesite_tile_stairs_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_needed_items": "2025-07-17 06:02:14 +0000"
     },
     "done": true
   },

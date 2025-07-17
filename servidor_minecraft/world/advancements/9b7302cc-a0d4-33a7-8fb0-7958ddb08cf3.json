@@ -215,6 +215,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-07-17 06:21:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-07-17 06:21:46 +0000"
+    },
+    "done": true
+  },
   "xkdeco:recipes/building_blocks/glass_tiles_from_glass_stonecutting": {
     "criteria": {
       "has_glass": "2025-07-17 03:29:20 +0000"
@@ -248,6 +260,12 @@
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2025-07-17 05:50:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-07-17 06:21:46 +0000"
     },
     "done": true
   },
@@ -599,6 +617,18 @@
     },
     "done": true
   },
+  "somemoreblocks:recipes/building_blocks/mossy_end_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_needed_items": "2025-07-17 06:15:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-07-17 06:21:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-07-17 05:56:45 +0000",
@@ -630,6 +660,12 @@
   "new_soviet:recipes/decorations/military_radio": {
     "criteria": {
       "has_iron_ingot": "2025-07-17 04:09:17 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/mossy_granite_bricks_from_moss_block": {
+    "criteria": {
+      "has_needed_items": "2025-07-17 06:15:11 +0000"
     },
     "done": true
   },
@@ -741,6 +777,12 @@
     },
     "done": true
   },
+  "somemoreblocks:recipes/building_blocks/mossy_red_sandstone_bricks_from_moss_block": {
+    "criteria": {
+      "has_needed_items": "2025-07-17 06:15:11 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-07-17 03:53:34 +0000"
@@ -837,6 +879,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-07-17 06:21:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-07-17 06:21:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
     "criteria": {
       "has_polished_granite": "2025-07-17 03:26:01 +0000"
@@ -864,6 +918,12 @@
   "travelersbackpack:recipes/misc/standard_no_tanks": {
     "criteria": {
       "has_chest": "2025-07-17 03:34:33 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/mossy_calcite_bricks_from_moss_block": {
+    "criteria": {
+      "has_needed_items": "2025-07-17 06:15:11 +0000"
     },
     "done": true
   },
@@ -1014,6 +1074,12 @@
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-07-17 02:46:52 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/diamond_tier_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-07-17 06:21:46 +0000"
     },
     "done": true
   },
@@ -1293,6 +1359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-07-17 06:21:46 +0000"
+    },
+    "done": true
+  },
   "new_soviet:recipes/building_blocks/yellow_concrete": {
     "criteria": {
       "has_iron_bars": "2025-07-17 06:13:12 +0000"
@@ -1455,6 +1527,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond": "2025-07-17 06:21:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold_betterstrongholds": "2025-07-17 05:47:51 +0000"
@@ -1557,6 +1635,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-07-17 06:21:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/purple_seat": {
     "criteria": {
       "has_wool": "2025-07-17 03:17:48 +0000"
@@ -1626,6 +1710,12 @@
   "create:recipes/building_blocks/cut_diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-07-17 03:53:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-07-17 06:21:46 +0000"
     },
     "done": true
   },
@@ -1821,6 +1911,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-07-17 06:21:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_diorite_bricks_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-07-17 03:53:34 +0000"
@@ -1872,6 +1968,12 @@
   "new_soviet:recipes/decorations/table_lamp": {
     "criteria": {
       "has_stick": "2025-07-17 02:42:40 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/mossy_bricks_from_moss_block": {
+    "criteria": {
+      "has_needed_items": "2025-07-17 06:15:11 +0000"
     },
     "done": true
   },
@@ -2139,6 +2241,12 @@
     },
     "done": true
   },
+  "somemoreblocks:recipes/building_blocks/mossy_mud_bricks_from_moss_block": {
+    "criteria": {
+      "has_needed_items": "2025-07-17 06:15:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-07-17 05:51:19 +0000"
@@ -2184,6 +2292,12 @@
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-07-17 02:46:52 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/mossy_tuff_bricks_from_moss_block": {
+    "criteria": {
+      "has_needed_items": "2025-07-17 06:15:11 +0000"
     },
     "done": true
   },
@@ -2625,6 +2739,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-17 06:15:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-07-17 02:48:11 +0000"
@@ -2694,6 +2814,12 @@
   "create:recipes/building_blocks/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-07-17 03:53:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-07-17 06:21:46 +0000"
     },
     "done": true
   },
@@ -2784,6 +2910,18 @@
   "minecraft:recipes/decorations/red_carpet": {
     "criteria": {
       "has_red_wool": "2025-07-17 03:17:48 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/mossy_diorite_bricks_from_moss_block": {
+    "criteria": {
+      "has_needed_items": "2025-07-17 06:15:11 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/mossy_sandstone_bricks_from_moss_block": {
+    "criteria": {
+      "has_needed_items": "2025-07-17 06:15:11 +0000"
     },
     "done": true
   },
@@ -3015,6 +3153,12 @@
     },
     "done": true
   },
+  "somemoreblocks:recipes/building_blocks/mossy_andesite_bricks_from_moss_block": {
+    "criteria": {
+      "has_needed_items": "2025-07-17 06:15:11 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-07-17 03:53:34 +0000"
@@ -3054,6 +3198,12 @@
   "create:recipes/building_blocks/small_calcite_bricks_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-07-17 03:56:06 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/mossy_purpur_block_from_moss_block": {
+    "criteria": {
+      "has_needed_items": "2025-07-17 06:15:11 +0000"
     },
     "done": true
   },
@@ -3232,6 +3382,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-07-17 06:15:11 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-07-17 03:56:06 +0000"
@@ -3318,6 +3474,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-07-17 02:47:47 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/mossy_dripstone_bricks_from_moss_block": {
+    "criteria": {
+      "has_needed_items": "2025-07-17 06:15:11 +0000"
     },
     "done": true
   },
@@ -3462,9 +3624,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-07-17 06:21:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-07-17 03:53:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-17 06:15:11 +0000"
     },
     "done": true
   },
