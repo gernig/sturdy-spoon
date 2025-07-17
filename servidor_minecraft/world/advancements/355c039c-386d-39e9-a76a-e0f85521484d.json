@@ -654,7 +654,8 @@
       "minecraft:enderman": "2025-07-17 03:21:47 +0000",
       "minecraft:stray": "2025-07-17 03:05:07 +0000",
       "minecraft:vex": "2025-07-17 03:30:03 +0000",
-      "minecraft:zombie": "2025-07-17 02:57:51 +0000"
+      "minecraft:zombie": "2025-07-17 02:57:51 +0000",
+      "minecraft:zombie_villager": "2025-07-17 05:59:36 +0000"
     },
     "done": false
   },
@@ -1341,6 +1342,12 @@
       "has_stone": "2025-07-17 04:48:35 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-07-17 06:15:02 +0000"
+    },
+    "done": false
   },
   "new_soviet:recipes/building_blocks/yellow_red_linoleum": {
     "criteria": {
@@ -3615,7 +3622,8 @@
     "criteria": {
       "apple": "2025-07-17 02:48:21 +0000",
       "bread": "2025-07-17 02:51:35 +0000",
-      "golden_apple": "2025-07-17 02:57:12 +0000"
+      "golden_apple": "2025-07-17 02:57:12 +0000",
+      "cookie": "2025-07-17 06:03:24 +0000"
     },
     "done": false
   },
