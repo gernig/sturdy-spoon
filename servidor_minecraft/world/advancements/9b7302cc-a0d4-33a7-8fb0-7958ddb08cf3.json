@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "new_soviet:recipes/building_blocks/lime_warning": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 04:09:17 +0000"
+    },
+    "done": true
+  },
   "xkdeco:recipes/building_blocks/sandy_cobblestone": {
     "criteria": {
       "has_item": "2025-07-17 02:54:29 +0000"
@@ -101,6 +107,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/backpack_tank": {
+    "criteria": {
+      "has_iron": "2025-07-17 04:09:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-07-17 03:53:34 +0000"
@@ -146,6 +158,12 @@
   "somemoreblocks:recipes/building_blocks/diorite_tile_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_needed_items": "2025-07-17 03:53:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 04:09:17 +0000"
     },
     "done": true
   },
@@ -227,6 +245,12 @@
     },
     "done": true
   },
+  "new_soviet:recipes/decorations/ceiling_fan": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 04:09:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-07-17 03:55:31 +0000"
@@ -242,6 +266,12 @@
   "somemoreblocks:recipes/building_blocks/diorite_bricks_from_diorite_stonecutting": {
     "criteria": {
       "has_needed_items": "2025-07-17 03:53:34 +0000"
+    },
+    "done": true
+  },
+  "immersive_aircraft:misc/aircraftery": {
+    "criteria": {
+      "has_item": "2025-07-17 04:09:17 +0000"
     },
     "done": true
   },
@@ -311,9 +341,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 04:09:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-07-17 02:46:52 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/light_blue_warning": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 04:09:17 +0000"
     },
     "done": true
   },
@@ -409,9 +451,21 @@
     },
     "done": true
   },
+  "new_soviet:recipes/decorations/military_radio": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 04:09:17 +0000"
+    },
+    "done": true
+  },
   "toms_storage:unlock_netherite": {
     "criteria": {
       "inv_changed-netherite": "2025-07-17 02:42:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 04:09:17 +0000"
     },
     "done": true
   },
@@ -427,9 +481,21 @@
     },
     "done": true
   },
+  "new_soviet:recipes/building_blocks/industrial_warning": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 04:09:17 +0000"
+    },
+    "done": true
+  },
   "new_soviet:recipes/building_blocks/herringbone_spruce_parquet_from_spruce_planks_stonecutting": {
     "criteria": {
       "has_spruce_planks": "2025-07-17 02:46:52 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/decorations/radio_receiver": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 04:09:17 +0000"
     },
     "done": true
   },
@@ -460,6 +526,12 @@
   "create:recipes/building_blocks/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-07-17 03:53:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy": {
+    "criteria": {
+      "has_item": "2025-07-17 04:09:17 +0000"
     },
     "done": true
   },
@@ -544,6 +616,12 @@
   "travelersbackpack:recipes/misc/standard_no_tanks": {
     "criteria": {
       "has_chest": "2025-07-17 03:34:33 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/decorations/green_tv": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 04:09:17 +0000"
     },
     "done": true
   },
@@ -643,6 +721,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 04:09:17 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/iron": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 04:09:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-17 03:53:17 +0000"
@@ -715,6 +805,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 04:09:17 +0000"
+    },
+    "done": true
+  },
   "new_soviet:recipes/building_blocks/blue_linoleum": {
     "criteria": {
       "has_oak_planks": "2025-07-17 03:02:31 +0000"
@@ -724,6 +820,12 @@
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-17 02:46:52 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/skeleton": {
+    "criteria": {
+      "has_arrow": "2025-07-17 04:11:22 +0000"
     },
     "done": true
   },
@@ -754,6 +856,18 @@
   "create:recipes/building_blocks/layered_calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-07-17 03:56:06 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/blue_warning": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 04:09:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 04:09:17 +0000"
     },
     "done": true
   },
@@ -817,6 +931,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 04:09:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_asurine_slab_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-07-17 03:56:00 +0000"
@@ -871,6 +991,12 @@
     },
     "done": true
   },
+  "new_soviet:recipes/building_blocks/purple_warning": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 04:09:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/calcite_pillar_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-07-17 03:56:06 +0000"
@@ -919,6 +1045,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 04:09:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2025-07-17 02:39:59 +0000"
@@ -943,6 +1075,12 @@
     },
     "done": true
   },
+  "new_soviet:recipes/building_blocks/gray_warning": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 04:09:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-07-17 02:45:37 +0000"
@@ -952,6 +1090,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-17 02:54:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 04:09:17 +0000"
     },
     "done": true
   },
@@ -994,6 +1138,18 @@
   "create:recipes/building_blocks/crafting/kinetics/purple_seat": {
     "criteria": {
       "has_wool": "2025-07-17 03:17:48 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/magenta_warning": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 04:09:17 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/decorations/tv": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 04:09:17 +0000"
     },
     "done": true
   },
@@ -1069,6 +1225,12 @@
     },
     "done": true
   },
+  "new_soviet:recipes/decorations/brown_tv": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 04:09:17 +0000"
+    },
+    "done": true
+  },
   "xkdeco:recipes/decorations/item_frame_cover_from_glass_stonecutting": {
     "criteria": {
       "has_glass": "2025-07-17 03:29:20 +0000"
@@ -1084,6 +1246,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-07-17 02:45:37 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/cyan_warning": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 04:09:17 +0000"
     },
     "done": true
   },
@@ -1114,6 +1282,12 @@
   "xkdeco:recipes/building_blocks/mycelium_slab_from_dirt_stonecutting": {
     "criteria": {
       "has_dirt": "2025-07-17 02:46:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 04:09:17 +0000"
     },
     "done": true
   },
@@ -1165,6 +1339,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 04:09:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-07-17 03:05:48 +0000"
@@ -1204,6 +1384,12 @@
   "create:recipes/building_blocks/small_diorite_bricks_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-07-17 03:53:34 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/green_warning": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 04:09:17 +0000"
     },
     "done": true
   },
@@ -1249,6 +1435,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/industrial_iron_block_from_iron_ingots_stonecutting": {
+    "criteria": {
+      "has_iron_ingots": "2025-07-17 04:09:17 +0000"
+    },
+    "done": true
+  },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
       "illager_camp": "2025-07-17 03:21:37 +0000"
@@ -1276,6 +1468,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-07-17 03:16:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 04:09:17 +0000"
     },
     "done": true
   },
@@ -1345,6 +1543,12 @@
     },
     "done": true
   },
+  "new_soviet:recipes/decorations/typewriter": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 04:09:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
     "criteria": {
       "has_item": "2025-07-17 03:48:28 +0000"
@@ -1360,6 +1564,12 @@
   "create:recipes/building_blocks/cut_asurine_stairs_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-07-17 03:56:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 04:09:17 +0000"
     },
     "done": true
   },
@@ -1393,6 +1603,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 04:09:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-07-17 03:56:06 +0000"
@@ -1408,6 +1624,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-07-17 03:25:59 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/decorations/light_bulb_lamp": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 04:09:17 +0000"
     },
     "done": true
   },
@@ -1429,9 +1651,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 04:09:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/gray_seat": {
     "criteria": {
       "has_wool": "2025-07-17 03:17:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 04:09:17 +0000"
     },
     "done": true
   },
@@ -1507,6 +1741,12 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-07-17 04:09:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-07-17 03:02:02 +0000"
@@ -1555,6 +1795,12 @@
     },
     "done": true
   },
+  "new_soviet:recipes/building_blocks/yellow_warning": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 04:09:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-07-17 03:02:31 +0000"
@@ -1588,6 +1834,12 @@
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-17 03:29:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 04:09:17 +0000"
     },
     "done": true
   },
@@ -1663,6 +1915,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 04:09:17 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/decorations/white_sleeping_bag": {
     "criteria": {
       "has_white_wool": "2025-07-17 03:17:49 +0000"
@@ -1672,6 +1930,12 @@
   "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_cut_copper_stonecutting": {
     "criteria": {
       "has_oxidized_cut_copper": "2025-07-17 03:26:25 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/combat/barbed_wire": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 04:09:17 +0000"
     },
     "done": true
   },
@@ -1699,6 +1963,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/empty_blaze_burner": {
+    "criteria": {
+      "has_item": "2025-07-17 04:09:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
     "criteria": {
       "has_wool": "2025-07-17 03:17:48 +0000"
@@ -1708,6 +1978,12 @@
   "somemoreblocks:recipes/building_blocks/calcite_brick_stairs_from_calcite_stonecutting": {
     "criteria": {
       "has_needed_items": "2025-07-17 03:56:06 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/red_warning": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 04:09:17 +0000"
     },
     "done": true
   },
@@ -1837,6 +2113,12 @@
     },
     "done": true
   },
+  "new_soviet:recipes/decorations/telephone": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 04:09:17 +0000"
+    },
+    "done": true
+  },
   "new_soviet:recipes/building_blocks/herringbone_spruce_planks_from_spruce_planks_stonecutting": {
     "criteria": {
       "has_spruce_planks": "2025-07-17 02:46:52 +0000"
@@ -1852,6 +2134,18 @@
   "somemoreblocks:recipes/building_blocks/calcite_tile_slab_from_calcite_stonecutting": {
     "criteria": {
       "has_needed_items": "2025-07-17 03:56:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 04:09:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 04:09:17 +0000"
     },
     "done": true
   },
@@ -1885,9 +2179,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 04:09:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-07-17 03:53:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 04:09:17 +0000"
     },
     "done": true
   },
@@ -1933,6 +2239,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/iron_tier_upgrade": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 04:09:17 +0000"
+    },
+    "done": true
+  },
   "somemoreblocks:recipes/building_blocks/stone_tiles_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_needed_items": "2025-07-17 03:25:59 +0000"
@@ -1951,9 +2263,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/hose_nozzle": {
+    "criteria": {
+      "has_iron": "2025-07-17 04:09:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/black_seat": {
     "criteria": {
       "has_wool": "2025-07-17 03:17:48 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/decorations/red_tv": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 04:09:17 +0000"
     },
     "done": true
   },
@@ -2008,6 +2332,12 @@
   "somemoreblocks:recipes/building_blocks/polished_calcite_stairs_from_calcite_stonecutting": {
     "criteria": {
       "has_needed_items": "2025-07-17 03:56:06 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/misc/antenna": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 04:09:17 +0000"
     },
     "done": true
   },
@@ -2162,6 +2492,12 @@
     },
     "done": true
   },
+  "new_soviet:recipes/building_blocks/orange_warning": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 04:09:17 +0000"
+    },
+    "done": true
+  },
   "somemoreblocks:recipes/building_blocks/diorite_brick_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_needed_items": "2025-07-17 03:53:34 +0000"
@@ -2243,6 +2579,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-17 02:54:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 04:09:17 +0000"
     },
     "done": true
   },
@@ -2440,6 +2782,12 @@
   "new_soviet:recipes/building_blocks/gray_linoleum": {
     "criteria": {
       "has_oak_planks": "2025-07-17 03:02:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 04:09:17 +0000"
     },
     "done": true
   },

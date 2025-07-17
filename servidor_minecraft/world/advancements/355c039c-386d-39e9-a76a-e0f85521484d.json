@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "new_soviet:recipes/misc/duchess_cigarette": {
+    "criteria": {
+      "has_makhorka": "2025-07-17 04:13:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-07-17 02:57:56 +0000"
@@ -838,6 +844,12 @@
     },
     "done": true
   },
+  "new_soviet:recipes/misc/cigarette": {
+    "criteria": {
+      "has_makhorka": "2025-07-17 04:13:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-17 02:59:38 +0000"
@@ -885,6 +897,12 @@
       "has_diamond": "2025-07-17 03:04:33 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-07-17 04:14:13 +0000"
+    },
+    "done": false
   },
   "new_soviet:recipes/building_blocks/yellow_red_linoleum": {
     "criteria": {
@@ -1084,6 +1102,12 @@
     },
     "done": true
   },
+  "xkdeco:recipes/building_blocks/orange_maple_leaves": {
+    "criteria": {
+      "has_item": "2025-07-17 04:13:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-07-17 03:05:11 +0000"
@@ -1099,6 +1123,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-07-17 02:49:49 +0000"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/plantable_leaves": {
+    "criteria": {
+      "has_item": "2025-07-17 04:13:32 +0000"
     },
     "done": true
   },
@@ -1351,6 +1381,12 @@
   "create:recipes/building_blocks/industrial_iron_block_from_iron_ingots_stonecutting": {
     "criteria": {
       "has_iron_ingots": "2025-07-17 02:53:27 +0000"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/red_maple_leaves": {
+    "criteria": {
+      "has_item": "2025-07-17 04:13:32 +0000"
     },
     "done": true
   },
@@ -1609,6 +1645,12 @@
   "create:recipes/misc/crafting/schematics/schematic_and_quill": {
     "criteria": {
       "has_item": "2025-07-17 02:57:54 +0000"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/ginkgo_leaves": {
+    "criteria": {
+      "has_item": "2025-07-17 04:13:32 +0000"
     },
     "done": true
   },
@@ -2128,6 +2170,18 @@
     },
     "done": true
   },
+  "new_soviet:recipes/misc/homemade_cigarette": {
+    "criteria": {
+      "has_makhorka": "2025-07-17 04:13:59 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/misc/belomor_cigarette": {
+    "criteria": {
+      "has_makhorka": "2025-07-17 04:13:59 +0000"
+    },
+    "done": true
+  },
   "toms_storage:unlock_dia_pearl": {
     "criteria": {
       "inv_changed-ender_pearl": "2025-07-17 02:39:25 +0000",
@@ -2144,6 +2198,12 @@
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-17 03:40:28 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/misc/friend_cigarette": {
+    "criteria": {
+      "has_makhorka": "2025-07-17 04:13:59 +0000"
     },
     "done": true
   },
