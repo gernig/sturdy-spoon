@@ -874,6 +874,12 @@
     },
     "done": true
   },
+  "new_soviet:recipes/building_blocks/birch_window": {
+    "criteria": {
+      "has_birch_slab": "2025-07-17 03:42:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jungle_sign": {
     "criteria": {
       "has_planks": "2025-07-17 03:36:59 +0000"
@@ -1006,6 +1012,12 @@
     },
     "done": true
   },
+  "somemoreblocks:recipes/building_blocks/birch_mosaic": {
+    "criteria": {
+      "has_needed_items": "2025-07-17 03:42:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-17 02:59:38 +0000"
@@ -1057,6 +1069,12 @@
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-07-17 03:05:11 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/birch_pane_window": {
+    "criteria": {
+      "has_birch_slab": "2025-07-17 03:42:44 +0000"
     },
     "done": true
   },
@@ -1129,6 +1147,12 @@
   "new_soviet:recipes/decorations/brown_tv": {
     "criteria": {
       "has_iron_ingot": "2025-07-17 02:53:27 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/bug_net": {
+    "criteria": {
+      "has_bamboo": "2025-07-17 03:49:37 +0000"
     },
     "done": true
   },
@@ -1501,6 +1525,12 @@
   "somemoreblocks:recipes/building_blocks/mossy_prismarine_bricks": {
     "criteria": {
       "has_needed_items": "2025-07-17 03:27:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-07-17 03:42:44 +0000"
     },
     "done": true
   },
@@ -1954,6 +1984,12 @@
     },
     "done": true
   },
+  "new_soviet:recipes/building_blocks/birch_pane_window_shapeless": {
+    "criteria": {
+      "has_birch_slab": "2025-07-17 03:42:44 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/using/ragnarok": {
     "criteria": {
       "log_spam_fixer": "2025-07-17 02:37:58 +0000"
@@ -2193,6 +2229,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-07-17 03:49:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-07-17 02:49:49 +0000"
@@ -2261,6 +2303,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-07-17 03:49:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-07-17 03:02:49 +0000"
@@ -2312,6 +2360,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-07-17 03:04:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-07-17 03:49:37 +0000"
     },
     "done": true
   },

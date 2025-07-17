@@ -307,6 +307,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-07-17 03:48:28 +0000"
+    },
+    "done": true
+  },
   "new_soviet:recipes/building_blocks/herringbone_spruce_parquet_from_spruce_planks_stonecutting": {
     "criteria": {
       "has_spruce_planks": "2025-07-17 02:46:52 +0000"
@@ -588,6 +594,12 @@
       "has_stone_bricks": "2025-07-17 03:25:59 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-07-17 03:53:06 +0000"
+    },
+    "done": false
   },
   "new_soviet:recipes/building_blocks/yellow_red_linoleum": {
     "criteria": {
@@ -934,6 +946,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-07-17 02:47:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-07-17 03:48:28 +0000"
     },
     "done": true
   },
@@ -1423,6 +1441,12 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-07-17 03:52:57 +0000"
+    },
+    "done": true
+  },
   "somemoreblocks:recipes/building_blocks/stone_tile_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_needed_items": "2025-07-17 03:25:59 +0000"
@@ -1636,6 +1660,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-07-17 02:46:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2025-07-17 03:48:28 +0000"
     },
     "done": true
   },

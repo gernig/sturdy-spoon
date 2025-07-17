@@ -100,6 +100,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-07-17 03:53:06 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2025-07-17 02:58:23 +0000"
@@ -835,6 +841,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2025-07-17 03:46:10 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/standard_no_tanks": {
     "criteria": {
       "has_chest": "2025-07-17 03:03:19 +0000"
@@ -904,6 +916,12 @@
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2025-07-17 03:26:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-07-17 03:46:10 +0000"
     },
     "done": true
   },
@@ -1147,6 +1165,12 @@
     },
     "done": true
   },
+  "new_soviet:recipes/building_blocks/birch_window": {
+    "criteria": {
+      "has_birch_slab": "2025-07-17 03:43:08 +0000"
+    },
+    "done": true
+  },
   "somemoreblocks:recipes/building_blocks/polished_stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_needed_items": "2025-07-17 02:58:23 +0000"
@@ -1327,6 +1351,12 @@
     },
     "done": true
   },
+  "somemoreblocks:recipes/building_blocks/birch_mosaic": {
+    "criteria": {
+      "has_needed_items": "2025-07-17 03:43:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-17 02:53:02 +0000"
@@ -1402,6 +1432,12 @@
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-07-17 02:53:45 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/birch_pane_window": {
+    "criteria": {
+      "has_birch_slab": "2025-07-17 03:43:08 +0000"
     },
     "done": true
   },
@@ -1963,6 +1999,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-07-17 03:43:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/orange_seat": {
     "criteria": {
       "has_wool": "2025-07-17 03:16:00 +0000"
@@ -2008,6 +2050,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-07-17 02:58:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-07-17 03:46:10 +0000"
     },
     "done": true
   },
@@ -2530,6 +2578,12 @@
   "somemoreblocks:recipes/building_blocks/tiled_glass": {
     "criteria": {
       "has_needed_items": "2025-07-17 03:16:57 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/birch_pane_window_shapeless": {
+    "criteria": {
+      "has_birch_slab": "2025-07-17 03:43:08 +0000"
     },
     "done": true
   },
