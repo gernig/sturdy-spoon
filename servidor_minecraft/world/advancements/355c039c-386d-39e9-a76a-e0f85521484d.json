@@ -4528,9 +4528,21 @@
     },
     "done": true
   },
+  "minecraft:new_soviet/sickle_kill": {
+    "criteria": {
+      "kill": "2025-07-19 03:32:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/hose_pulley": {
     "criteria": {
       "has_item": "2025-07-19 03:15:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:new_soviet/sickle": {
+    "criteria": {
+      "got_sickle": "2025-07-19 03:29:51 +0000"
     },
     "done": true
   },

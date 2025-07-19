@@ -113,6 +113,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-07-17 03:30:11 +0000",
+      "tropical_fish": "2025-07-19 03:25:14 +0000",
       "apple": "2025-07-17 02:45:34 +0000",
       "bread": "2025-07-17 02:51:27 +0000",
       "golden_apple": "2025-07-17 05:15:35 +0000",
@@ -6408,6 +6409,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/vertical_gearboxfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-07-19 03:30:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/copper_ladder_from_copper_ingots_stonecutting": {
     "criteria": {
       "has_copper_ingots": "2025-07-19 03:18:29 +0000"
@@ -6423,6 +6430,12 @@
   "create:recipes/misc/crafting/appliances/copper_backtank": {
     "criteria": {
       "has_item": "2025-07-19 03:18:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/super_glue": {
+    "criteria": {
+      "has_item": "2025-07-19 03:29:31 +0000"
     },
     "done": true
   },
@@ -6453,6 +6466,12 @@
   "create:recipes/misc/crafting/kinetics/large_water_wheel": {
     "criteria": {
       "has_the_recipe": "2025-07-19 03:22:50 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-07-19 03:28:10 +0000"
     },
     "done": true
   },
@@ -6504,6 +6523,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/propeller": {
+    "criteria": {
+      "has_item": "2025-07-19 03:29:31 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2025-07-19 03:29:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
     "criteria": {
       "has_item": "2025-07-19 03:18:29 +0000"
@@ -6516,9 +6547,33 @@
     },
     "done": true
   },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2025-07-19 03:28:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/encased_fan": {
+    "criteria": {
+      "has_item": "2025-07-19 03:29:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/copper_bars_from_copper_ingots_stonecutting": {
     "criteria": {
       "has_copper_ingots": "2025-07-19 03:18:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/whisk": {
+    "criteria": {
+      "has_item": "2025-07-19 03:29:31 +0000"
+    },
+    "done": true
+  },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2025-07-19 03:24:42 +0000"
     },
     "done": true
   },
@@ -6531,6 +6586,12 @@
   "create:recipes/misc/crafting/materials/copper_nugget": {
     "criteria": {
       "has_item": "2025-07-19 03:18:29 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-07-19 03:28:10 +0000"
     },
     "done": true
   },
@@ -6558,15 +6619,39 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "tropical_fish_bucket": "2025-07-19 03:24:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/hose_pulley": {
     "criteria": {
       "has_item": "2025-07-19 03:18:29 +0000"
     },
     "done": true
   },
+  "minecraft:new_soviet/sickle": {
+    "criteria": {
+      "got_sickle": "2025-07-19 03:29:41 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-07-19 03:28:10 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/vertical_gearbox": {
     "criteria": {
       "has_item": "2025-07-19 03:22:26 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-07-19 03:28:10 +0000"
     },
     "done": true
   },
