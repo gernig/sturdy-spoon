@@ -56,6 +56,7 @@
       "minecraft:cherry_grove": "2025-07-20 06:07:31 +0000",
       "minecraft:sunflower_plains": "2025-07-20 06:17:56 +0000",
       "minecraft:birch_forest": "2025-07-17 04:48:05 +0000",
+      "minecraft:windswept_hills": "2025-07-20 06:25:50 +0000",
       "minecraft:bamboo_jungle": "2025-07-20 05:36:50 +0000",
       "minecraft:savanna_plateau": "2025-07-20 06:07:41 +0000",
       "minecraft:beach": "2025-07-17 02:48:33 +0000",
@@ -6829,6 +6830,12 @@
     },
     "done": true
   },
+  "new_soviet:recipes/building_blocks/small_granite_tiles_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2025-07-20 06:28:42 +0000"
+    },
+    "done": true
+  },
   "somemoreblocks:recipes/building_blocks/sandstone_tiles_from_sandstone_stonecutting": {
     "criteria": {
       "has_needed_items": "2025-07-20 05:45:51 +0000"
@@ -6844,6 +6851,12 @@
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-07-20 05:45:51 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/granite_tile_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 06:28:42 +0000"
     },
     "done": true
   },
@@ -6871,9 +6884,45 @@
     },
     "done": true
   },
+  "somemoreblocks:recipes/building_blocks/granite_tile_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 06:28:42 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/granite_tiles_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 06:28:42 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/spectral_arrow_from_glow_goop": {
+    "criteria": {
+      "has_glow_goop": "2025-07-20 06:27:29 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/granite_brick_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 06:28:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
     "criteria": {
       "has_cut_sandstone": "2025-07-20 05:45:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2025-07-20 06:28:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2025-07-20 06:28:42 +0000"
     },
     "done": true
   },
@@ -6892,6 +6941,18 @@
   "somemoreblocks:recipes/building_blocks/sandstone_bricks_from_sandstone_stonecutting": {
     "criteria": {
       "has_needed_items": "2025-07-20 05:45:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2025-07-20 06:28:42 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/granite_bricks": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 06:28:42 +0000"
     },
     "done": true
   },
@@ -6973,6 +7034,12 @@
     },
     "done": true
   },
+  "somemoreblocks:recipes/building_blocks/granite_brick_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 06:28:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2025-07-20 05:45:51 +0000"
@@ -6991,9 +7058,21 @@
     },
     "done": true
   },
+  "new_soviet:recipes/building_blocks/big_granite_tiles_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2025-07-20 06:28:42 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/sandstone": {
     "criteria": {
       "has_sandstone": "2025-07-20 05:45:51 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/granite_bricks_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 06:28:42 +0000"
     },
     "done": true
   },
@@ -7021,9 +7100,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2025-07-20 06:28:42 +0000"
+    },
+    "done": true
+  },
   "nova_structures:root": {
     "criteria": {
       "nova_structures:adventure/find_tavern": "2025-07-20 05:27:20 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/granite_brick_wall_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 06:28:42 +0000"
     },
     "done": true
   },
@@ -7060,6 +7151,12 @@
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-07-20 05:45:51 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/granite_tile_wall_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 06:28:42 +0000"
     },
     "done": true
   },
