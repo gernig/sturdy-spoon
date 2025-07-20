@@ -7004,6 +7004,12 @@
     },
     "done": true
   },
+  "create:burner": {
+    "criteria": {
+      "0": "2025-07-20 06:40:03 +0000"
+    },
+    "done": true
+  },
   "somemoreblocks:recipes/building_blocks/yellow_shingles_from_yellow_terracotta": {
     "criteria": {
       "has_needed_items": "2025-07-20 06:14:55 +0000"
