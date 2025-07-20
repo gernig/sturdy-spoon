@@ -220,6 +220,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2025-07-17 02:48:21 +0000",
+      "potato": "2025-07-20 05:06:58 +0000",
       "bread": "2025-07-17 02:51:35 +0000",
       "golden_apple": "2025-07-17 02:57:12 +0000",
       "cookie": "2025-07-17 06:03:24 +0000"
@@ -4642,12 +4643,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-07-20 04:58:11 +0000"
-    },
-    "done": false
-  },
   "create:recipes/misc/smelting/glass_from_framed_glass": {
     "criteria": {
       "has_item": "2025-07-20 04:53:12 +0000"
@@ -4678,6 +4673,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-07-20 05:06:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-07-20 05:06:55 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/stone_reinforced_impact_hammer": {
     "criteria": {
       "has_material": "2025-07-20 04:53:12 +0000"
@@ -4693,6 +4700,12 @@
   "justhammers:recipes/tools/stone_hammer": {
     "criteria": {
       "has_material": "2025-07-20 04:53:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-07-20 05:06:55 +0000"
     },
     "done": true
   },

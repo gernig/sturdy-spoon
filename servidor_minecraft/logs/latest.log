@@ -520,3 +520,7 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 	... 25 more
 [05:01:51] [Server thread/INFO]: skupdiripop was blown up by Creeper
 [05:02:05] [Server thread/INFO]: skupdiripop claimed a grave belonging to skupdiripop at 574, 64, 9, minecraft:overworld
+[05:03:49] [Server thread/INFO]: Yumalala was shot by Skeleton
+[05:03:56] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at 589, 67, 39, minecraft:overworld
+[05:12:23] [Server thread/INFO]: Yumalala was slain by skupdiripop
+[05:12:39] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at 584, 68, 32, minecraft:overworld
