@@ -7563,6 +7563,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/craft_redstonepen_first": {
+    "criteria": {
+      "quill_present": "2025-07-20 08:10:41 +0000"
+    },
+    "done": true
+  },
   "new_soviet:recipes/decorations/big_post_lamp_sea_lantern": {
     "criteria": {
       "has_lamp_post_base": "2025-07-20 06:49:47 +0000"
