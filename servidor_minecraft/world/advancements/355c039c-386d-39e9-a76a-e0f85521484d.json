@@ -50,8 +50,11 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-07-20 05:19:39 +0000",
+      "minecraft:mushroom_fields": "2025-07-20 06:01:20 +0000",
       "minecraft:deep_ocean": "2025-07-17 02:39:13 +0000",
+      "minecraft:cherry_grove": "2025-07-20 06:07:07 +0000",
       "minecraft:birch_forest": "2025-07-20 05:19:06 +0000",
+      "minecraft:savanna_plateau": "2025-07-20 06:07:28 +0000",
       "minecraft:beach": "2025-07-17 02:38:43 +0000",
       "minecraft:dark_forest": "2025-07-20 05:21:19 +0000",
       "minecraft:sparse_jungle": "2025-07-20 05:36:45 +0000",
@@ -65,7 +68,8 @@
       "minecraft:old_growth_spruce_taiga": "2025-07-20 05:19:08 +0000",
       "minecraft:warm_ocean": "2025-07-20 05:43:01 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-07-17 05:54:26 +0000",
-      "minecraft:old_growth_birch_forest": "2025-07-20 05:30:28 +0000"
+      "minecraft:old_growth_birch_forest": "2025-07-20 05:30:28 +0000",
+      "minecraft:plains": "2025-07-20 06:05:07 +0000"
     },
     "done": false
   },
