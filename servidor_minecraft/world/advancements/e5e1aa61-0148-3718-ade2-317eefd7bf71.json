@@ -6926,6 +6926,12 @@
     },
     "done": true
   },
+  "xkdeco:recipes/building_blocks/mud_wall_block": {
+    "criteria": {
+      "has_item": "2025-07-20 07:52:15 +0000"
+    },
+    "done": true
+  },
   "somemoreblocks:recipes/building_blocks/granite_tiles_from_polished_granite_stonecutting": {
     "criteria": {
       "has_needed_items": "2025-07-20 06:28:42 +0000"
@@ -7115,6 +7121,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-07-20 05:45:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2025-07-20 07:52:15 +0000"
     },
     "done": true
   },
