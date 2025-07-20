@@ -49,14 +49,23 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-07-20 05:19:39 +0000",
       "minecraft:deep_ocean": "2025-07-17 02:39:13 +0000",
+      "minecraft:birch_forest": "2025-07-20 05:19:06 +0000",
       "minecraft:beach": "2025-07-17 02:38:43 +0000",
+      "minecraft:dark_forest": "2025-07-20 05:21:19 +0000",
+      "minecraft:sparse_jungle": "2025-07-20 05:36:45 +0000",
       "minecraft:river": "2025-07-17 02:50:32 +0000",
       "minecraft:lukewarm_ocean": "2025-07-19 02:47:32 +0000",
       "minecraft:forest": "2025-07-17 02:37:58 +0000",
       "minecraft:lush_caves": "2025-07-17 05:46:14 +0000",
+      "minecraft:desert": "2025-07-20 05:41:10 +0000",
+      "minecraft:windswept_forest": "2025-07-20 05:42:49 +0000",
       "minecraft:ocean": "2025-07-17 02:38:18 +0000",
-      "minecraft:deep_lukewarm_ocean": "2025-07-17 05:54:26 +0000"
+      "minecraft:old_growth_spruce_taiga": "2025-07-20 05:19:08 +0000",
+      "minecraft:warm_ocean": "2025-07-20 05:43:01 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-07-17 05:54:26 +0000",
+      "minecraft:old_growth_birch_forest": "2025-07-20 05:30:28 +0000"
     },
     "done": false
   },
@@ -4643,9 +4652,63 @@
     },
     "done": true
   },
+  "somemoreblocks:recipes/building_blocks/granite_bricks_from_granite_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 05:31:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-07-20 05:31:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-07-20 05:31:28 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/granite_tile_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 05:31:28 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/smelting/glass_from_framed_glass": {
     "criteria": {
       "has_item": "2025-07-20 04:53:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-07-20 05:31:28 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/purple_concrete_tiles_from_purple_concrete_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 05:45:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-07-20 05:31:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-07-20 05:31:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_brick_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-07-20 05:31:28 +0000"
     },
     "done": true
   },
@@ -4655,9 +4718,135 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-07-20 05:31:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-07-20 05:44:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-07-20 05:31:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-07-20 05:31:28 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/granite_brick_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 05:31:28 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/purple_concrete_bricks_from_purple_concrete_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 05:45:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-07-20 05:31:28 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/stone_impact_hammer": {
     "criteria": {
       "has_material": "2025-07-20 04:53:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-07-20 05:31:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-07-20 05:31:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-07-20 05:31:28 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/granite_pillar_from_granite_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 05:31:28 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_dark_oak": "2025-07-20 05:27:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-07-20 05:31:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-07-20 05:31:28 +0000"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/inca_stone": {
+    "criteria": {
+      "has_granite": "2025-07-20 05:31:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/granite_pillar_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-07-20 05:31:28 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/purple_concrete_tiles": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 05:45:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-07-20 05:31:28 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/orange_shingles_from_orange_terracotta_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 05:45:48 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/granite_brick_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 05:31:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-07-20 05:31:28 +0000"
     },
     "done": true
   },
@@ -4679,9 +4868,64 @@
     },
     "done": true
   },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "tavern_dark_oak": "2025-07-20 05:27:19 +0000",
+      "illager_camp": "2025-07-20 05:29:09 +0000"
+    },
+    "done": false
+  },
+  "somemoreblocks:recipes/building_blocks/granite_tile_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 05:31:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-20 05:46:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-07-20 05:31:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2025-07-20 05:45:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-07-20 05:31:28 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/purple_concrete_bricks": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 05:45:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-07-20 05:06:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-07-20 05:31:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_brick_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-07-20 05:31:28 +0000"
     },
     "done": true
   },
@@ -4691,9 +4935,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-07-20 05:44:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-07-20 05:31:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_bricks_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-07-20 05:31:28 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2025-07-20 05:27:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
+    "criteria": {
+      "has_dune_armor_trim_smithing_template": "2025-07-20 05:46:56 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/orange_terracotta_bricks_from_orange_terracotta_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 05:45:48 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/orange_terracotta_bricks_from_orange_terracotta": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 05:45:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/framed_glass_trapdoor": {
     "criteria": {
       "has_item": "2025-07-20 04:53:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-07-20 05:31:28 +0000"
     },
     "done": true
   },
@@ -4703,15 +4995,93 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_granite_brick_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-07-20 05:31:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-07-20 05:06:55 +0000"
     },
     "done": true
   },
+  "somemoreblocks:recipes/building_blocks/orange_shingles_from_orange_terracotta": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 05:45:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-07-20 05:31:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_bricks_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-07-20 05:31:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-07-20 05:31:28 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/granite_brick_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 05:31:28 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/granite_tile_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 05:31:28 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-07-20 05:29:37 +0000"
+    },
+    "done": false
+  },
+  "somemoreblocks:recipes/building_blocks/granite_tiles_from_granite_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 05:31:28 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/stone_reinforced_hammer": {
     "criteria": {
       "has_material": "2025-07-20 04:53:12 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/smooth_granite": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 05:31:28 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-07-20 05:29:37 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_hammer": {
+    "criteria": {
+      "has_material": "2025-07-20 05:48:08 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/chiseled_granite_bricks_from_granite_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 05:31:28 +0000"
     },
     "done": true
   },

@@ -49,15 +49,25 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-07-20 05:19:40 +0000",
       "minecraft:deep_ocean": "2025-07-17 03:25:55 +0000",
       "minecraft:birch_forest": "2025-07-17 04:48:05 +0000",
+      "minecraft:bamboo_jungle": "2025-07-20 05:36:50 +0000",
       "minecraft:beach": "2025-07-17 02:48:33 +0000",
+      "minecraft:dark_forest": "2025-07-20 05:21:16 +0000",
+      "minecraft:sparse_jungle": "2025-07-20 05:36:45 +0000",
       "minecraft:lukewarm_ocean": "2025-07-17 05:42:38 +0000",
       "minecraft:river": "2025-07-17 02:48:27 +0000",
       "minecraft:forest": "2025-07-17 02:26:19 +0000",
       "minecraft:lush_caves": "2025-07-17 04:51:41 +0000",
+      "minecraft:desert": "2025-07-20 05:41:13 +0000",
+      "minecraft:windswept_forest": "2025-07-20 05:42:46 +0000",
       "minecraft:ocean": "2025-07-17 02:52:59 +0000",
-      "minecraft:old_growth_spruce_taiga": "2025-07-17 04:48:23 +0000"
+      "minecraft:jungle": "2025-07-20 05:38:55 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-07-17 04:48:23 +0000",
+      "minecraft:warm_ocean": "2025-07-20 05:42:34 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-07-20 05:39:04 +0000",
+      "minecraft:old_growth_birch_forest": "2025-07-20 05:30:25 +0000"
     },
     "done": false
   },
@@ -113,6 +123,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-07-17 03:30:11 +0000",
+      "baked_potato": "2025-07-20 05:17:45 +0000",
       "tropical_fish": "2025-07-19 03:25:14 +0000",
       "apple": "2025-07-17 02:45:34 +0000",
       "bread": "2025-07-17 02:51:27 +0000",
@@ -255,6 +266,7 @@
   },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
+      "tavern_dark_oak": "2025-07-20 05:27:20 +0000",
       "illager_camp": "2025-07-17 02:47:28 +0000"
     },
     "done": false
@@ -399,6 +411,7 @@
       "minecraft:zombified_piglin": "2025-07-19 03:39:11 +0000",
       "minecraft:witch": "2025-07-19 03:03:19 +0000",
       "minecraft:wither_skeleton": "2025-07-17 03:03:17 +0000",
+      "minecraft:husk": "2025-07-20 05:45:04 +0000",
       "minecraft:cave_spider": "2025-07-17 02:50:57 +0000",
       "minecraft:piglin": "2025-07-17 05:17:37 +0000",
       "minecraft:enderman": "2025-07-17 04:33:48 +0000",
@@ -6803,6 +6816,216 @@
   "create:recipes/misc/crafting/kinetics/gearboxfrom_conversion": {
     "criteria": {
       "has_item": "2025-07-19 03:50:46 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/sandstone_tiles_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 05:45:51 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/sandstone_brick_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 05:45:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-20 05:45:51 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/sandstone_brick_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 05:45:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-07-20 05:45:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-07-20 05:11:37 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cactus": {
+    "criteria": {
+      "has_cactus": "2025-07-20 05:41:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-07-20 05:45:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-07-20 05:45:51 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/sandstone_bricks_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 05:45:51 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/sandstone_pillar_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 05:45:51 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_dark_oak": "2025-07-20 05:27:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-20 05:45:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-20 05:45:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-20 05:45:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-20 05:45:51 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/sandstone_tile_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 05:45:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-07-20 05:45:51 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/coal_pillar": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 05:11:37 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/fox": {
+    "criteria": {
+      "has_sweet_berries": "2025-07-20 05:27:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-07-20 05:45:51 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/sandstone_brick_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 05:45:51 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/chicken_smithing": {
+    "criteria": {
+      "has_chicken": "2025-07-20 05:25:34 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-07-20 05:45:51 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/sandstone_tile_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 05:45:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-20 05:45:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-07-20 05:45:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-07-20 05:41:18 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2025-07-20 05:27:20 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/cut_coal": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 05:11:37 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-07-20 05:29:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-07-20 05:45:51 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-07-20 05:29:33 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/sandstone_tile_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 05:45:51 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_hammer": {
+    "criteria": {
+      "has_material": "2025-07-20 05:29:10 +0000"
     },
     "done": true
   },
