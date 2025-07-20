@@ -6830,6 +6830,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/rotation_speed_controller": {
+    "criteria": {
+      "has_item": "2025-07-20 07:03:06 +0000"
+    },
+    "done": true
+  },
   "new_soviet:recipes/building_blocks/small_granite_tiles_from_polished_granite_stonecutting": {
     "criteria": {
       "has_polished_granite": "2025-07-20 06:28:42 +0000"
@@ -6839,6 +6845,18 @@
   "somemoreblocks:recipes/building_blocks/sandstone_tiles_from_sandstone_stonecutting": {
     "criteria": {
       "has_needed_items": "2025-07-20 05:45:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/elevator_pulley": {
+    "criteria": {
+      "has_item": "2025-07-20 07:02:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_arm": {
+    "criteria": {
+      "has_item": "2025-07-20 07:03:06 +0000"
     },
     "done": true
   },
@@ -6890,6 +6908,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/placard": {
+    "criteria": {
+      "has_item": "2025-07-20 07:02:15 +0000"
+    },
+    "done": true
+  },
   "somemoreblocks:recipes/building_blocks/granite_tile_stairs_from_polished_granite_stonecutting": {
     "criteria": {
       "has_needed_items": "2025-07-20 06:28:42 +0000"
@@ -6908,9 +6932,33 @@
     },
     "done": true
   },
+  "create:mechanical_mixer": {
+    "criteria": {
+      "0": "2025-07-20 07:02:02 +0000"
+    },
+    "done": true
+  },
   "somemoreblocks:recipes/building_blocks/granite_brick_slab_from_polished_granite_stonecutting": {
     "criteria": {
       "has_needed_items": "2025-07-20 06:28:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/brass_tunnel": {
+    "criteria": {
+      "has_item": "2025-07-20 07:02:15 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/stone_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-07-20 07:01:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/brass_funnel": {
+    "criteria": {
+      "has_item": "2025-07-20 07:02:15 +0000"
     },
     "done": true
   },
@@ -6923,6 +6971,12 @@
   "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
     "criteria": {
       "has_polished_granite": "2025-07-20 06:28:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/content_observer": {
+    "criteria": {
+      "has_item": "2025-07-20 07:03:06 +0000"
     },
     "done": true
   },
@@ -6944,6 +6998,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/display_link": {
+    "criteria": {
+      "has_item": "2025-07-20 07:03:06 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/stone_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-07-20 07:01:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2025-07-20 05:45:51 +0000"
@@ -6953,6 +7019,12 @@
   "somemoreblocks:recipes/building_blocks/sandstone_bricks_from_sandstone_stonecutting": {
     "criteria": {
       "has_needed_items": "2025-07-20 05:45:51 +0000"
+    },
+    "done": true
+  },
+  "create:brass": {
+    "criteria": {
+      "0": "2025-07-20 07:02:15 +0000"
     },
     "done": true
   },
@@ -6980,9 +7052,21 @@
     },
     "done": true
   },
+  "create:recipes/decorations/brass_bars_from_brass_ingots_stonecutting": {
+    "criteria": {
+      "has_brass_ingots": "2025-07-20 07:02:15 +0000"
+    },
+    "done": true
+  },
   "somemoreblocks:recipes/building_blocks/sandstone_pillar_from_sandstone_stonecutting": {
     "criteria": {
       "has_needed_items": "2025-07-20 05:45:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/attribute_filter": {
+    "criteria": {
+      "has_item": "2025-07-20 07:02:15 +0000"
     },
     "done": true
   },
@@ -7007,6 +7091,12 @@
   "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-07-20 05:45:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/brass_block_from_compacting": {
+    "criteria": {
+      "has_item": "2025-07-20 07:02:15 +0000"
     },
     "done": true
   },
@@ -7046,6 +7136,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/mechanical_crafter": {
+    "criteria": {
+      "has_item": "2025-07-20 07:03:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2025-07-20 05:45:51 +0000"
@@ -7067,6 +7163,12 @@
   "minecraft:recipes/decorations/yellow_glazed_terracotta": {
     "criteria": {
       "has_yellow_terracotta": "2025-07-20 06:14:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/redstone_link": {
+    "criteria": {
+      "has_item": "2025-07-20 07:03:06 +0000"
     },
     "done": true
   },
@@ -7112,6 +7214,12 @@
     },
     "done": true
   },
+  "create:brass_casing": {
+    "criteria": {
+      "0": "2025-07-20 07:03:01 +0000"
+    },
+    "done": true
+  },
   "somemoreblocks:recipes/building_blocks/granite_bricks_from_polished_granite_stonecutting": {
     "criteria": {
       "has_needed_items": "2025-07-20 06:28:42 +0000"
@@ -7124,9 +7232,27 @@
     },
     "done": true
   },
+  "create:recipes/decorations/brass_scaffolding_from_brass_ingots_stonecutting": {
+    "criteria": {
+      "has_brass_ingots": "2025-07-20 07:02:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/brass_hand": {
+    "criteria": {
+      "has_item": "2025-07-20 07:02:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-07-20 05:45:51 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/stone_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-07-20 07:01:25 +0000"
     },
     "done": true
   },
@@ -7139,6 +7265,12 @@
   "minecraft:recipes/misc/green_dye": {
     "criteria": {
       "has_cactus": "2025-07-20 05:41:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/brass_door": {
+    "criteria": {
+      "has_item": "2025-07-20 07:03:06 +0000"
     },
     "done": true
   },
@@ -7160,9 +7292,45 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/stockpile_switch": {
+    "criteria": {
+      "has_item": "2025-07-20 07:03:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/sequenced_gearshift": {
+    "criteria": {
+      "has_item": "2025-07-20 07:03:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/brass_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2025-07-20 07:02:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/redstone_contact": {
+    "criteria": {
+      "has_item": "2025-07-20 07:03:06 +0000"
+    },
+    "done": true
+  },
   "somemoreblocks:recipes/building_blocks/granite_brick_wall_from_polished_granite_stonecutting": {
     "criteria": {
       "has_needed_items": "2025-07-20 06:28:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/brass_ladder_from_brass_ingots_stonecutting": {
+    "criteria": {
+      "has_brass_ingots": "2025-07-20 07:02:15 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/stone_hammer": {
+    "criteria": {
+      "has_material": "2025-07-20 07:01:25 +0000"
     },
     "done": true
   },
@@ -7190,9 +7358,39 @@
     },
     "done": false
   },
+  "create:recipes/misc/crafting/kinetics/flywheel": {
+    "criteria": {
+      "has_item": "2025-07-20 07:02:15 +0000"
+    },
+    "done": true
+  },
   "somemoreblocks:recipes/building_blocks/yellow_terracotta_bricks_from_yellow_terracotta_stonecutting": {
     "criteria": {
       "has_needed_items": "2025-07-20 06:14:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/clockwork_bearing": {
+    "criteria": {
+      "has_item": "2025-07-20 07:03:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/peculiar_bell": {
+    "criteria": {
+      "has_item": "2025-07-20 07:02:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/nixie_tube": {
+    "criteria": {
+      "has_item": "2025-07-20 07:03:06 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/stone_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-07-20 07:01:25 +0000"
     },
     "done": true
   },

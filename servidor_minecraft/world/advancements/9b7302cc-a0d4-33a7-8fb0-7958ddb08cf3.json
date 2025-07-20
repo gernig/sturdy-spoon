@@ -3872,6 +3872,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-07-20 07:01:46 +0000"
+    },
+    "done": true
+  },
   "new_soviet:recipes/misc/light_bulb_item": {
     "criteria": {
       "has_iron_nugget": "2025-07-20 06:46:05 +0000"
@@ -3884,9 +3890,33 @@
     },
     "done": true
   },
+  "somemoreblocks:recipes/building_blocks/stone_tile_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 07:01:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_lantern": {
     "criteria": {
       "has_soul_torch": "2025-07-20 06:52:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-20 07:01:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-07-20 07:01:46 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/stone_tile_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 07:01:46 +0000"
     },
     "done": true
   },
@@ -3896,9 +3926,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-20 07:01:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-07-20 07:01:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-07-20 07:01:46 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/stone_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-07-20 07:01:46 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/stone_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-07-20 07:01:46 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/light_blue_tiles": {
+    "criteria": {
+      "has_stone": "2025-07-20 07:01:46 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/polished_stone_from_stone_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 07:01:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/ornate_iron_window": {
     "criteria": {
       "has_ingredient": "2025-07-20 06:46:05 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/polished_stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 07:01:46 +0000"
     },
     "done": true
   },
@@ -3908,9 +3986,21 @@
     },
     "done": true
   },
+  "somemoreblocks:recipes/building_blocks/stone_tiles_from_stone_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 07:01:46 +0000"
+    },
+    "done": true
+  },
   "new_soviet:recipes/decorations/big_post_lamp_redstone_lamp": {
     "criteria": {
       "has_lamp_post_base": "2025-07-20 06:49:50 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/white_tiles": {
+    "criteria": {
+      "has_stone": "2025-07-20 07:01:46 +0000"
     },
     "done": true
   },
@@ -3920,15 +4010,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-07-20 07:01:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-07-20 06:07:29 +0000"
     },
     "done": true
   },
+  "somemoreblocks:recipes/building_blocks/polished_stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 07:01:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
       "has_brick": "2025-07-20 06:43:34 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/stone_pillar_from_stone_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 07:01:46 +0000"
     },
     "done": true
   },
@@ -3950,9 +4058,33 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/stone_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-07-20 07:01:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-07-20 07:01:46 +0000"
+    },
+    "done": true
+  },
   "xkdeco:recipes/building_blocks/bronze_block": {
     "criteria": {
       "has_iron_nugget": "2025-07-20 06:46:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-07-20 07:01:46 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/stone_tile_wall_from_stone_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 07:01:46 +0000"
     },
     "done": true
   },
@@ -3986,15 +4118,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-20 07:01:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-20 07:01:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-20 07:01:46 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/iron_hammer": {
     "criteria": {
       "has_material": "2025-07-20 04:54:14 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-20 07:01:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-07-20 06:26:36 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/stone_hammer": {
+    "criteria": {
+      "has_material": "2025-07-20 07:01:46 +0000"
     },
     "done": true
   },
@@ -4010,6 +4172,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-20 07:01:46 +0000"
+    },
+    "done": true
+  },
   "new_soviet:recipes/combat/ap_landmine": {
     "criteria": {
       "has_iron_nugget": "2025-07-20 06:46:05 +0000"
@@ -4019,6 +4187,12 @@
   "travelersbackpack:recipes/misc/lapis": {
     "criteria": {
       "has_lapis_lazuli": "2025-07-20 06:07:29 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/stone_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-07-20 07:01:46 +0000"
     },
     "done": true
   },
