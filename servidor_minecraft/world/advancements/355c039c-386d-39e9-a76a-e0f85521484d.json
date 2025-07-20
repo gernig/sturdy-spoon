@@ -52,7 +52,9 @@
       "minecraft:old_growth_pine_taiga": "2025-07-20 05:19:39 +0000",
       "minecraft:mushroom_fields": "2025-07-20 06:01:20 +0000",
       "minecraft:deep_ocean": "2025-07-17 02:39:13 +0000",
+      "minecraft:frozen_river": "2025-07-20 06:22:07 +0000",
       "minecraft:cherry_grove": "2025-07-20 06:07:07 +0000",
+      "minecraft:sunflower_plains": "2025-07-20 06:18:37 +0000",
       "minecraft:birch_forest": "2025-07-20 05:19:06 +0000",
       "minecraft:savanna_plateau": "2025-07-20 06:07:28 +0000",
       "minecraft:beach": "2025-07-17 02:38:43 +0000",
@@ -60,12 +62,16 @@
       "minecraft:sparse_jungle": "2025-07-20 05:36:45 +0000",
       "minecraft:river": "2025-07-17 02:50:32 +0000",
       "minecraft:lukewarm_ocean": "2025-07-19 02:47:32 +0000",
+      "minecraft:cold_ocean": "2025-07-20 06:21:11 +0000",
       "minecraft:forest": "2025-07-17 02:37:58 +0000",
       "minecraft:lush_caves": "2025-07-17 05:46:14 +0000",
+      "minecraft:deep_cold_ocean": "2025-07-20 06:20:36 +0000",
+      "minecraft:frozen_ocean": "2025-07-20 06:21:37 +0000",
       "minecraft:desert": "2025-07-20 05:41:10 +0000",
       "minecraft:windswept_forest": "2025-07-20 05:42:49 +0000",
       "minecraft:ocean": "2025-07-17 02:38:18 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-07-20 05:19:08 +0000",
+      "minecraft:snowy_beach": "2025-07-20 06:21:46 +0000",
       "minecraft:warm_ocean": "2025-07-20 05:43:01 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-07-17 05:54:26 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-20 05:30:28 +0000",
@@ -4656,6 +4662,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-07-20 06:17:02 +0000"
+    },
+    "done": true
+  },
   "somemoreblocks:recipes/building_blocks/granite_bricks_from_granite_stonecutting": {
     "criteria": {
       "has_needed_items": "2025-07-20 05:31:28 +0000"
@@ -4668,15 +4680,51 @@
     },
     "done": true
   },
+  "somemoreblocks:recipes/building_blocks/tuff_tile_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 06:17:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_granite_brick_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-07-20 05:31:28 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-20 06:16:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-07-20 06:17:02 +0000"
+    },
+    "done": true
+  },
   "somemoreblocks:recipes/building_blocks/granite_tile_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_needed_items": "2025-07-20 05:31:28 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/dripstone_brick_wall_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 06:16:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-20 06:16:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-07-20 06:17:02 +0000"
     },
     "done": true
   },
@@ -4704,9 +4752,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-20 06:16:54 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/tuff_tile_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 06:17:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-20 06:16:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-20 05:31:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-07-20 06:17:02 +0000"
     },
     "done": true
   },
@@ -4722,6 +4794,24 @@
     },
     "done": true
   },
+  "somemoreblocks:recipes/building_blocks/dripstone_bricks": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 06:16:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-07-20 06:17:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-07-20 06:17:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-20 05:31:28 +0000"
@@ -4731,6 +4821,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
     "criteria": {
       "has_cut_sandstone": "2025-07-20 05:44:48 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/polished_dripstone_slab_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 06:16:54 +0000"
     },
     "done": true
   },
@@ -4746,9 +4842,27 @@
     },
     "done": true
   },
+  "somemoreblocks:recipes/building_blocks/tuff_tiles_from_tuff_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 06:17:02 +0000"
+    },
+    "done": true
+  },
   "somemoreblocks:recipes/building_blocks/granite_brick_slab_from_granite_stonecutting": {
     "criteria": {
       "has_needed_items": "2025-07-20 05:31:28 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/smooth_tuff": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 06:17:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-07-20 06:17:02 +0000"
     },
     "done": true
   },
@@ -4770,15 +4884,51 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-20 06:16:54 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/dripstone_brick_slab_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 06:16:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-20 06:16:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-07-20 05:31:28 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-20 06:16:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-07-20 05:31:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-20 06:16:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-07-20 06:17:02 +0000"
     },
     "done": true
   },
@@ -4794,6 +4944,12 @@
     },
     "done": true
   },
+  "somemoreblocks:recipes/building_blocks/dripstone_brick_stairs_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 06:16:54 +0000"
+    },
+    "done": true
+  },
   "nova_structures:adventure/find_tavern": {
     "criteria": {
       "nova_structures:tavern_dark_oak": "2025-07-20 05:27:19 +0000"
@@ -4806,9 +4962,27 @@
     },
     "done": true
   },
+  "somemoreblocks:recipes/building_blocks/dripstone_tile_stairs_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 06:16:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-20 05:31:28 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/dripstone_tiles_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_dripstone_block": "2025-07-20 06:16:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-07-20 06:17:02 +0000"
     },
     "done": true
   },
@@ -4821,6 +4995,12 @@
   "create:recipes/building_blocks/granite_pillar_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-07-20 05:31:28 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/chiseled_dripstone_bricks_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 06:16:54 +0000"
     },
     "done": true
   },
@@ -4842,9 +5022,39 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/layered_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-20 06:16:54 +0000"
+    },
+    "done": true
+  },
   "somemoreblocks:recipes/building_blocks/granite_brick_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_needed_items": "2025-07-20 05:31:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-20 06:16:54 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/polished_dripstone_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 06:16:54 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/dripstone_bricks_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_dripstone_block": "2025-07-20 06:16:54 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/tuff_bricks_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-07-20 06:17:02 +0000"
     },
     "done": true
   },
@@ -4860,9 +5070,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-20 06:16:54 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/dripstone_bricks_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 06:16:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/framed_glass_pane": {
     "criteria": {
       "has_ingredient": "2025-07-20 04:53:12 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/polished_dripstone_stairs_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 06:16:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-07-20 06:17:02 +0000"
     },
     "done": true
   },
@@ -4885,6 +5119,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-07-20 06:17:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-07-20 05:46:56 +0000"
@@ -4900,6 +5140,12 @@
   "minecraft:recipes/decorations/orange_glazed_terracotta": {
     "criteria": {
       "has_orange_terracotta": "2025-07-20 05:45:48 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/dripstone_pillar_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 06:16:54 +0000"
     },
     "done": true
   },
@@ -4927,9 +5173,57 @@
     },
     "done": true
   },
+  "somemoreblocks:recipes/building_blocks/dripstone_tiles_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 06:16:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dripstone_block_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-20 06:16:54 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/smooth_dripstone": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 06:16:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-07-20 06:17:02 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/tuff_tile_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 06:17:02 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/tuff_pillar_from_tuff_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 06:17:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-07-20 06:17:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_granite_brick_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-07-20 05:31:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_pillar_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-07-20 06:17:02 +0000"
     },
     "done": true
   },
@@ -4945,6 +5239,30 @@
     },
     "done": true
   },
+  "new_soviet:recipes/building_blocks/tuff_tiles_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-07-20 06:17:02 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/dripstone_tile_wall_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 06:16:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-20 06:16:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-20 06:16:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_granite_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-07-20 05:31:28 +0000"
@@ -4954,6 +5272,12 @@
   "create:recipes/building_blocks/cut_granite_bricks_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-07-20 05:31:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-07-20 06:17:02 +0000"
     },
     "done": true
   },
@@ -4984,6 +5308,12 @@
   "create:recipes/misc/crafting/kinetics/framed_glass_trapdoor": {
     "criteria": {
       "has_item": "2025-07-20 04:53:12 +0000"
+    },
+    "done": true
+  },
+  "new_soviet:recipes/building_blocks/big_tuff_tiles_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-07-20 06:17:02 +0000"
     },
     "done": true
   },
@@ -5029,6 +5359,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-20 06:16:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-07-20 06:17:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-07-20 05:31:28 +0000"
@@ -5053,15 +5395,45 @@
     },
     "done": false
   },
+  "create:recipes/building_blocks/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-07-20 06:17:02 +0000"
+    },
+    "done": true
+  },
   "somemoreblocks:recipes/building_blocks/granite_tiles_from_granite_stonecutting": {
     "criteria": {
       "has_needed_items": "2025-07-20 05:31:28 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/dripstone_pillar_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-20 06:16:54 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/stone_reinforced_hammer": {
     "criteria": {
       "has_material": "2025-07-20 04:53:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-20 06:16:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-20 06:16:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-07-20 06:17:02 +0000"
     },
     "done": true
   },
@@ -5083,9 +5455,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-20 06:16:54 +0000"
+    },
+    "done": true
+  },
   "somemoreblocks:recipes/building_blocks/chiseled_granite_bricks_from_granite_stonecutting": {
     "criteria": {
       "has_needed_items": "2025-07-20 05:31:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-07-20 06:17:02 +0000"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/dripstone_tile_slab_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_needed_items": "2025-07-20 06:16:54 +0000"
     },
     "done": true
   },
