@@ -4216,6 +4216,30 @@
     },
     "done": true
   },
+  "xkdeco:recipes/building_blocks/netherrack_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-07-22 02:43:39 +0000"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/warped_nylium_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-07-22 02:43:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-07-22 02:43:39 +0000"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/crimson_nylium_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-07-22 02:43:39 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/gold_hammer": {
     "criteria": {
       "has_material": "2025-07-22 01:22:48 +0000"
