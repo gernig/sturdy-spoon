@@ -497,7 +497,8 @@
       "apple": "2025-07-17 02:51:55 +0000",
       "bread": "2025-07-17 03:09:12 +0000",
       "glow_berries": "2025-07-17 06:04:13 +0000",
-      "cooked_chicken": "2025-07-17 03:08:35 +0000"
+      "cooked_chicken": "2025-07-17 03:08:35 +0000",
+      "cooked_salmon": "2025-07-22 01:22:31 +0000"
     },
     "done": false
   },
@@ -4211,6 +4212,12 @@
   "minecraft:story/cure_zombie_villager": {
     "criteria": {
       "cured_zombie": "2025-07-20 08:20:00 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_hammer": {
+    "criteria": {
+      "has_material": "2025-07-22 01:22:48 +0000"
     },
     "done": true
   },
