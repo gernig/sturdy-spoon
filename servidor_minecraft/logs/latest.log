@@ -433,3 +433,41 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createa
 [03:56:03] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at 579, 65, 30, minecraft:overworld
 [03:56:07] [Server thread/INFO]: [Yumalala: Teleported AKUSGOD to Yumalala]
 [03:56:16] [Server thread/INFO]: AKUSGOD claimed a grave belonging to AKUSGOD at 584, 68, 38, minecraft:overworld
+[04:01:59] [Server thread/INFO]: skupdiripop[/127.113.56.113:34463] logged in with entity id 219441 at (584.5, 67.91249999552966, 32.5)
+[04:01:59] [Server thread/INFO]: Syncing config to skupdiripop (355c039c-386d-39e9-a76a-e0f85521484d)
+[04:01:59] [Server thread/INFO]: Loading config from file...
+[04:01:59] [Server thread/INFO]: skupdiripop joined the game
+[04:02:13] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player skupdiripop. Claiming: GRAVE / Robbing: INVENTORY
+[04:03:07] [Server thread/INFO]: [Yumalala: Set own game mode to Creative Mode]
+[04:03:17] [Server thread/INFO]: [Yumalala: Set own game mode to Survival Mode]
+[04:04:10] [Server thread/INFO]: [Yumalala: Set own game mode to Creative Mode]
+[04:04:21] [Server thread/INFO]: [Yumalala: Set own game mode to Survival Mode]
+[04:07:29] [Server thread/INFO]: skupdiripop was slain by Yumalala
+[04:07:40] [Server thread/INFO]: skupdiripop claimed a grave belonging to skupdiripop at 585, 68, 43, minecraft:overworld
+[04:09:12] [Server thread/INFO]: Paanchurrizzlpit[/127.124.176.158:34017] logged in with entity id 287844 at (340.5, 79.0, 233.5)
+[04:09:12] [Server thread/INFO]: Syncing config to Paanchurrizzlpit (708e6de1-a6fc-37ea-b6b5-4dfdb38b4e62)
+[04:09:12] [Server thread/INFO]: Loading config from file...
+[04:09:12] [Server thread/INFO]: Paanchurrizzlpit joined the game
+[04:09:13] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player Paanchurrizzlpit. Claiming: GRAVE / Robbing: INVENTORY
+[04:09:27] [Server thread/INFO]: [Yumalala: Set own game mode to Creative Mode]
+[04:10:01] [Server thread/INFO]: Paanchurrizzlpit lost connection: Disconnected
+[04:10:01] [Server thread/INFO]: Paanchurrizzlpit left the game
+[04:10:48] [Server thread/INFO]: [Yumalala: Set own game mode to Survival Mode]
+[04:13:12] [Server thread/INFO]: Paanchurrizzlpit[/127.124.176.158:60615] logged in with entity id 390001 at (352.31203128717937, 76.0, 239.69999998807907)
+[04:13:12] [Server thread/INFO]: Syncing config to Paanchurrizzlpit (708e6de1-a6fc-37ea-b6b5-4dfdb38b4e62)
+[04:13:12] [Server thread/INFO]: Loading config from file...
+[04:13:12] [Server thread/INFO]: Paanchurrizzlpit joined the game
+[04:13:13] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player Paanchurrizzlpit. Claiming: GRAVE / Robbing: INVENTORY
+[04:13:31] [Server thread/INFO]: [Yumalala: Teleported Paanchurrizzlpit to Yumalala]
+[04:14:12] [Server thread/INFO]: [Yumalala: Set own game mode to Creative Mode]
+[04:14:17] [Server thread/INFO]: [Yumalala: Teleported Paanchurrizzlpit to Yumalala]
+[04:14:25] [Server thread/INFO]: [Yumalala: Set own game mode to Survival Mode]
+[04:15:02] [Server thread/INFO]: AKUSGOD was slain by Zombie
+[04:15:06] [Server thread/INFO]: AKUSGOD claimed a grave belonging to AKUSGOD at 581, 68, 35, minecraft:overworld
+[04:15:24] [Server thread/INFO]: Paanchurrizzlpit has made the advancement [Diamonds!]
+[04:16:09] [Server thread/INFO]: Paanchurrizzlpit has made the advancement [Isn't It Iron Pick]
+[04:16:56] [Server thread/INFO]: Yumalala was slain by Enderman
+[04:16:57] [Server thread/INFO]: Paanchurrizzlpit has made the advancement [Acquire Hardware]
+[04:17:01] [Server thread/INFO]: Paanchurrizzlpit has made the advancement [Suit Up]
+[04:17:14] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at 532, 64, 101, minecraft:overworld
+[04:17:52] [Server thread/INFO]: [Yumalala: Set own game mode to Creative Mode]

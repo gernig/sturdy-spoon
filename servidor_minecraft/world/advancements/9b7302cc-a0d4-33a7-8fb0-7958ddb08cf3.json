@@ -4271,6 +4271,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-07-29 04:08:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/fluid_tank": {
     "criteria": {
       "has_item": "2025-07-29 03:52:23 +0000"
